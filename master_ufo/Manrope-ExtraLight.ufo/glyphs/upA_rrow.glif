@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upArrow" format="2">
+  <advance width="702"/>
+  <unicode hex="2191"/>
+  <outline>
+    <component base="greater" xScale="0.0001" xyScale="1" yxScale="-1" yScale="0.0001" xOffset="666" yOffset="255"/>
+    <component base="emdash" xScale="-0.0006" xyScale="1" yxScale="-1" yScale="-0.0006" xOffset="666" yOffset="-60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 05:36:59</string>
+    </dict>
+  </lib>
+</glyph>

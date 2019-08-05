@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.loclBGR" format="2">
+  <advance width="652"/>
+  <outline>
+    <contour>
+      <point x="306" y="291" type="line"/>
+      <point x="348" y="291" type="line"/>
+      <point x="348" y="720" type="line"/>
+      <point x="306" y="720" type="line"/>
+    </contour>
+    <component base="zhe-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:56</string>
+    </dict>
+  </lib>
+</glyph>

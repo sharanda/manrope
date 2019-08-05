@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="625"/>
+  <unicode hex="0111"/>
+  <outline>
+    <component base="d"/>
+    <component base="macroncomb" xOffset="225" yOffset="-260"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 08:24:41</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokelongcomb" format="2">
+  <unicode hex="0336"/>
+  <outline>
+    <component base="emdash"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/07/17 13:52:12</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>780</integer>
+    </dict>
+  </lib>
+</glyph>

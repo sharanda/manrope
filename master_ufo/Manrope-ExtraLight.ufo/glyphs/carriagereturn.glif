@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="carriagereturn" format="2">
+  <advance width="794"/>
+  <unicode hex="21B5"/>
+  <outline>
+    <contour>
+      <point x="734" y="294" type="line"/>
+      <point x="734" y="336" type="line"/>
+      <point x="194" y="336" type="line"/>
+      <point x="194" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="734" y="314" type="line"/>
+      <point x="734" y="720" type="line"/>
+      <point x="692" y="720" type="line"/>
+      <point x="692" y="314" type="line"/>
+    </contour>
+    <component base="less"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>less</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>emdash</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/08 08:58:27</string>
+    </dict>
+  </lib>
+</glyph>

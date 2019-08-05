@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.case" format="2">
+  <advance width="640"/>
+  <outline>
+    <component base="periodcentered" yOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>periodcentered</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>periodcentered</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/08 09:04:48</string>
+    </dict>
+  </lib>
+</glyph>

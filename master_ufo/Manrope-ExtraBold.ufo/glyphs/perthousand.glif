@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="1310"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="degree" xOffset="450" yOffset="-390"/>
+    <component base="degree" xOffset="30"/>
+    <component base="slashlongcomb" xOffset="90"/>
+    <component base="degree" xOffset="860" yOffset="-390"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/05 17:49:55</string>
+    </dict>
+  </lib>
+</glyph>

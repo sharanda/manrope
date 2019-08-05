@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy" format="2">
+  <advance width="622"/>
+  <unicode hex="043F"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="206" y="540" type="line"/>
+      <point x="70" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="540" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="552" y="0" type="line"/>
+      <point x="552" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="167" y="540" type="line"/>
+      <point x="167" y="413" type="line"/>
+      <point x="441" y="413" type="line"/>
+      <point x="441" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/11 06:37:52</string>
+    </dict>
+  </lib>
+</glyph>

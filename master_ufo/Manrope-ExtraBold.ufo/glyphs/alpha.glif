@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alpha" format="2">
+  <advance width="635"/>
+  <unicode hex="03B1"/>
+  <outline>
+    <contour>
+      <point x="445" y="0" type="line"/>
+      <point x="565" y="0" type="line"/>
+      <point x="565" y="540" type="line"/>
+      <point x="445" y="540" type="line"/>
+    </contour>
+    <component base="oval-inner"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/05 15:32:44</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

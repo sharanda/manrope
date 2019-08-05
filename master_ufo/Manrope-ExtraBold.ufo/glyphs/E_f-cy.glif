@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ef-cy" format="2">
+  <advance width="748"/>
+  <unicode hex="0424"/>
+  <outline>
+    <contour>
+      <point x="441" y="105" type="curve"/>
+      <point x="306" y="105" type="line"/>
+      <point x="158" y="80"/>
+      <point x="30" y="180"/>
+      <point x="30" y="380" type="curve" smooth="yes"/>
+      <point x="30" y="580"/>
+      <point x="158" y="685"/>
+      <point x="306" y="660" type="curve"/>
+      <point x="441" y="660" type="line"/>
+      <point x="589" y="685"/>
+      <point x="718" y="580"/>
+      <point x="718" y="380" type="curve" smooth="yes"/>
+      <point x="718" y="180"/>
+      <point x="589" y="80"/>
+    </contour>
+    <contour>
+      <point x="306" y="229" type="curve"/>
+      <point x="441" y="229" type="line"/>
+      <point x="554" y="211"/>
+      <point x="580" y="300"/>
+      <point x="580" y="380" type="curve" smooth="yes"/>
+      <point x="580" y="450"/>
+      <point x="554" y="556"/>
+      <point x="441" y="538" type="curve"/>
+      <point x="306" y="538" type="line"/>
+      <point x="192" y="556"/>
+      <point x="168" y="460"/>
+      <point x="168" y="380" type="curve" smooth="yes"/>
+      <point x="168" y="300"/>
+      <point x="192" y="211"/>
+    </contour>
+    <contour>
+      <point x="441" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="306" y="720" type="line"/>
+      <point x="441" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 08:09:26</string>
+    </dict>
+  </lib>
+</glyph>

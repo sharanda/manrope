@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shcha-cy.loclBGR" format="2">
+  <advance width="943"/>
+  <outline>
+    <contour>
+      <point x="727" y="0" type="line"/>
+      <point x="847" y="0" type="line"/>
+      <point x="847" y="-120" type="line"/>
+      <point x="933" y="-120" type="line"/>
+      <point x="933" y="120" type="line"/>
+      <point x="727" y="120" type="line"/>
+    </contour>
+    <component base="m" xScale="-1" yScale="-1" xOffset="917" yOffset="540"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tse-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 08:10:01</string>
+    </dict>
+  </lib>
+</glyph>

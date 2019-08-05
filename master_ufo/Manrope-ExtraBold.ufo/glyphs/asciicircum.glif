@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="684"/>
+  <unicode hex="005E"/>
+  <outline>
+    <component base="less" xScale="0.0008" xyScale="-1" yxScale="1" yScale="0.0008" xOffset="32" yOffset="875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/05/19 07:01:08</string>
+    </dict>
+  </lib>
+</glyph>

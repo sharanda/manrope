@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che-cy" format="2">
+  <advance width="686"/>
+  <unicode hex="0427"/>
+  <outline>
+    <contour>
+      <point x="479" y="720" type="line"/>
+      <point x="479" y="404" type="line"/>
+      <point x="452" y="379"/>
+      <point x="400" y="360"/>
+      <point x="346" y="360" type="curve" smooth="yes"/>
+      <point x="303" y="360"/>
+      <point x="264" y="366"/>
+      <point x="238" y="402" type="curve" smooth="yes"/>
+      <point x="212" y="438"/>
+      <point x="208" y="493"/>
+      <point x="208" y="554" type="curve" smooth="yes"/>
+      <point x="208" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+      <point x="70" y="523" type="line" smooth="yes"/>
+      <point x="70" y="448"/>
+      <point x="76" y="373"/>
+      <point x="122" y="314" type="curve" smooth="yes"/>
+      <point x="175" y="246"/>
+      <point x="243" y="232"/>
+      <point x="320" y="232" type="curve" smooth="yes"/>
+      <point x="376" y="232"/>
+      <point x="444" y="247"/>
+      <point x="479" y="269" type="curve"/>
+      <point x="479" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="616" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>M</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>M</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/02 13:45:07</string>
+    </dict>
+  </lib>
+</glyph>

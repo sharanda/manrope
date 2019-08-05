@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="573"/>
+  <unicode hex="0127"/>
+  <outline>
+    <component base="h"/>
+    <component base="macroncomb" xOffset="-120" yOffset="-240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:34</string>
+    </dict>
+  </lib>
+</glyph>

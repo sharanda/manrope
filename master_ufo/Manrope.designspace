@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="200" maximum="800" default="200"/>
+  </axes>
+  <sources>
+    <source filename="Manrope-ExtraLight.ufo" name="Manrope ExtraLight" familyname="Manrope" stylename="ExtraLight">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+    <source filename="Manrope-ExtraBold.ufo" name="Manrope ExtraBold" familyname="Manrope" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Manrope ExtraLight" familyname="Manrope" stylename="ExtraLight" filename="../instance_ufo/Manrope-ExtraLight.ufo" stylemapfamilyname="Manrope ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Manrope Light" familyname="Manrope" stylename="Light" filename="../instance_ufo/Manrope-Light.ufo" stylemapfamilyname="Manrope Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Manrope Regular" familyname="Manrope" stylename="Regular" filename="../instance_ufo/Manrope-Regular.ufo" stylemapfamilyname="Manrope" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Manrope Medium" familyname="Manrope" stylename="Medium" filename="../instance_ufo/Manrope-Medium.ufo" stylemapfamilyname="Manrope Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Manrope SemiBold" familyname="Manrope" stylename="SemiBold" filename="../instance_ufo/Manrope-SemiBold.ufo" stylemapfamilyname="Manrope SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Manrope Bold" familyname="Manrope" stylename="Bold" filename="../instance_ufo/Manrope-Bold.ufo" stylemapfamilyname="Manrope" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Manrope ExtraBold" familyname="Manrope" stylename="ExtraBold" filename="../instance_ufo/Manrope-ExtraBold.ufo" stylemapfamilyname="Manrope ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>CAA188E2-8C62-414B-93AE-B576BEB044DB</key>
+        <dict/>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

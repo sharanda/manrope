@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-cy.loclBGR" format="2">
+  <advance width="917"/>
+  <outline>
+    <component base="m" xScale="-1" yScale="-1" xOffset="917" yOffset="540"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/05 15:29:56</string>
+    </dict>
+  </lib>
+</glyph>

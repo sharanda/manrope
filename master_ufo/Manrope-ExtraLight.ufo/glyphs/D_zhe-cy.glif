@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzhe-cy" format="2">
+  <advance width="710"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="334" y="21" type="line"/>
+      <point x="334" y="-120" type="line"/>
+      <point x="376" y="-120" type="line"/>
+      <point x="376" y="21" type="line"/>
+    </contour>
+    <component base="Ge-cy" yScale="-1" yOffset="720"/>
+    <component base="Ge-cy" xScale="-1" yScale="-1" xOffset="710" yOffset="720"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Sha-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Sha-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:47:12</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

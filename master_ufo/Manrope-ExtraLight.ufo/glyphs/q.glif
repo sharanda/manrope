@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="2">
+  <advance width="576"/>
+  <unicode hex="0071"/>
+  <note>
+q
+</note>
+  <outline>
+    <component base="p" xScale="-1" xOffset="576"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 08:25:11</string>
+    </dict>
+  </lib>
+</glyph>

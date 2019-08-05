@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U-cy" format="2">
+  <advance width="614"/>
+  <unicode hex="0423"/>
+  <outline>
+    <contour>
+      <point x="544" y="720" type="line"/>
+      <point x="303" y="202" type="line"/>
+      <point x="65" y="720" type="line"/>
+      <point x="20" y="720" type="line"/>
+      <point x="281" y="155" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="589" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 03:04:04</string>
+    </dict>
+  </lib>
+</glyph>

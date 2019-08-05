@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance width="600"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="82" y="720" type="line"/>
+      <point x="82" y="600" type="line"/>
+      <point x="187" y="600" type="line"/>
+      <point x="187" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="413" y="720" type="line"/>
+      <point x="413" y="600" type="line"/>
+      <point x="518" y="600" type="line"/>
+      <point x="518" y="720" type="line"/>
+    </contour>
+    <component base="tonos" xOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/03 08:26:46</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiongreek" format="2">
+  <advance width="280"/>
+  <unicode hex="037E"/>
+  <outline>
+    <component base="semicolon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>semicolon</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>semicolon</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/03 09:57:46</string>
+    </dict>
+  </lib>
+</glyph>

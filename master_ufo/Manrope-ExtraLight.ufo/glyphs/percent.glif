@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="902"/>
+  <unicode hex="0025"/>
+  <note>
+percent
+</note>
+  <outline>
+    <component base="degree" xOffset="452" yOffset="-390"/>
+    <component base="degree" xOffset="30"/>
+    <component base="slashlongcomb" xOffset="90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/08 09:24:03</string>
+    </dict>
+  </lib>
+</glyph>

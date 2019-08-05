@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="636"/>
+  <unicode hex="0075"/>
+  <note>
+u
+</note>
+  <outline>
+    <component base="line-vertical-short" xScale="-1" xOffset="566"/>
+    <component base="n-curve" xScale="-1" yScale="-1" xOffset="527" yOffset="540"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/07/24 05:50:04</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

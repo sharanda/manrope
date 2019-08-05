@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tf" format="2">
+  <advance width="620"/>
+  <outline>
+    <component base="zero" xScale="-1" xOffset="647"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/07/14 13:59:14</string>
+    </dict>
+  </lib>
+</glyph>

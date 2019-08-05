@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wordjoiner" format="2">
+  <unicode hex="2060"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/21 05:34:45</string>
+    </dict>
+  </lib>
+</glyph>

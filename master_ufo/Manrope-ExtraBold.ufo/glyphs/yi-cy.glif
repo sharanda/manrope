@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yi-cy" format="2">
+  <advance width="296"/>
+  <unicode hex="0457"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dieresiscomb" xOffset="-138" yOffset="-225"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:47:04</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="corner-cy" format="2">
+  <advance width="206"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="70" y="-120" type="line"/>
+      <point x="206" y="-120" type="line"/>
+      <point x="206" y="120" type="line"/>
+      <point x="0" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 07:52:33</string>
+    </dict>
+  </lib>
+</glyph>

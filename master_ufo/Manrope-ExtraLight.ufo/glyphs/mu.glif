@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu" format="2">
+  <advance width="583"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <contour>
+      <point x="513" y="0" type="line"/>
+      <point x="513" y="540" type="line"/>
+      <point x="471" y="540" type="line"/>
+      <point x="471" y="302" type="line"/>
+      <point x="474" y="302" type="line"/>
+      <point x="474" y="0" type="line"/>
+    </contour>
+    <component base="n-curve" xScale="-1" yScale="-1" xOffset="509" yOffset="540"/>
+    <component base="line-vertical-ac" yScale="-1" xOffset="70" yOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 07:40:20</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

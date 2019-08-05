@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="750"/>
+  <unicode hex="2265"/>
+  <outline>
+    <component base="lessequal" xScale="-1" xOffset="750"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>equal</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>equal</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/21 06:01:24</string>
+    </dict>
+  </lib>
+</glyph>

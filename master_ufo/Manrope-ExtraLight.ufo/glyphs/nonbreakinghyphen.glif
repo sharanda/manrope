@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nonbreakinghyphen" format="2">
+  <advance width="420"/>
+  <unicode hex="2011"/>
+  <outline>
+    <component base="hyphen"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/08 09:12:01</string>
+    </dict>
+  </lib>
+</glyph>

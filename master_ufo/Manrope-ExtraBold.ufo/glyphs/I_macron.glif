@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron" format="2">
+  <advance width="296"/>
+  <unicode hex="012A"/>
+  <outline>
+    <component base="I"/>
+    <component base="macroncomb" xOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/20 05:52:12</string>
+    </dict>
+  </lib>
+</glyph>

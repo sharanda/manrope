@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Theta" format="2">
+  <advance width="758"/>
+  <unicode hex="0398"/>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb" xOffset="133" yOffset="-532"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/02 15:22:33</string>
+    </dict>
+  </lib>
+</glyph>

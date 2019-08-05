@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".null" format="2">
+  <advance width="600"/>
+  <note>
+.null
+</note>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/05 05:46:37</string>
+    </dict>
+  </lib>
+</glyph>

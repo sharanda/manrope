@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotatonos" format="2">
+  <advance width="296"/>
+  <unicode hex="038A"/>
+  <outline>
+    <component base="Idieresis"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/01 14:37:13</string>
+    </dict>
+  </lib>
+</glyph>

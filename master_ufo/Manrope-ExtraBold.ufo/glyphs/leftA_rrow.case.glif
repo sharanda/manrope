@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftArrow.case" format="2">
+  <advance width="1015"/>
+  <outline>
+    <component base="leftArrow"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/08 08:49:31</string>
+    </dict>
+  </lib>
+</glyph>

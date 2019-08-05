@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="519"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="80" y="348" type="line"/>
+      <point x="80" y="306" type="line"/>
+      <point x="440" y="306" type="line"/>
+      <point x="440" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="174" type="line"/>
+      <point x="80" y="132" type="line"/>
+      <point x="440" y="132" type="line"/>
+      <point x="440" y="174" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/05/19 08:02:03</string>
+    </dict>
+  </lib>
+</glyph>

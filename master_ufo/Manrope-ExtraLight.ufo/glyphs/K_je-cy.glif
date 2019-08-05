@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kje-cy" format="2">
+  <advance width="558"/>
+  <unicode hex="040C"/>
+  <outline>
+    <component base="Ka-cy"/>
+    <component base="acutecomb" xOffset="95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/01 09:35:56</string>
+    </dict>
+  </lib>
+</glyph>

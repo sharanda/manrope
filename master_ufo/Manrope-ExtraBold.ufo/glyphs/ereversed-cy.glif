@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ereversed-cy" format="2">
+  <advance width="584"/>
+  <unicode hex="044D"/>
+  <outline>
+    <contour>
+      <point x="236" y="323" type="line"/>
+      <point x="236" y="218" type="line"/>
+      <point x="417" y="218" type="line"/>
+      <point x="417" y="323" type="line"/>
+    </contour>
+    <component base="c" xScale="-1" xOffset="584"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:48</string>
+    </dict>
+  </lib>
+</glyph>

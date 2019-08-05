@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy" format="2">
+  <advance width="611"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="20" y="540" type="line"/>
+      <point x="20" y="435" type="line"/>
+      <point x="170" y="435" type="line"/>
+      <point x="170" y="540" type="line"/>
+    </contour>
+    <component base="softsign-cy" xOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>b</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/11 08:59:49</string>
+    </dict>
+  </lib>
+</glyph>

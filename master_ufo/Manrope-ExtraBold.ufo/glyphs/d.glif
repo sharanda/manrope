@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d" format="2">
+  <advance width="625"/>
+  <unicode hex="0064"/>
+  <note>
+d
+</note>
+  <outline>
+    <component base="b" xScale="-1" xOffset="625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 08:24:41</string>
+    </dict>
+  </lib>
+</glyph>
