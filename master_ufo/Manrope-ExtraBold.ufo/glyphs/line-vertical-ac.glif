@@ -3,12 +3,12 @@
   <advance width="137"/>
   <outline>
     <contour>
-      <point x="0" y="540" type="line"/>
       <point x="0" y="-240" type="line"/>
       <point x="137" y="-240" type="line"/>
       <point x="137" y="170" type="line"/>
       <point x="120" y="170" type="line"/>
       <point x="120" y="540" type="line"/>
+      <point x="0" y="540" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -16,7 +16,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/05/09 15:07:24</string>
+      <string>2019/08/05 20:54:22</string>
     </dict>
   </lib>
 </glyph>
