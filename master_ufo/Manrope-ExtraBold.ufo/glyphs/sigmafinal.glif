@@ -4,35 +4,35 @@
   <unicode hex="03C2"/>
   <outline>
     <contour>
-      <point x="40" y="270" type="curve" smooth="yes"/>
-      <point x="40" y="72"/>
-      <point x="154" y="0"/>
-      <point x="273" y="0" type="curve" smooth="yes"/>
-      <point x="364" y="0"/>
-      <point x="427" y="-9"/>
       <point x="427" y="-120" type="curve"/>
       <point x="545" y="-120" type="line"/>
-      <point x="565" y="-3"/>
-      <point x="527" y="88"/>
+      <point x="564" y="-5"/>
+      <point x="532" y="83"/>
       <point x="456" y="112" type="curve" smooth="yes"/>
-      <point x="414" y="126"/>
-      <point x="382" y="127"/>
+      <point x="414" y="128"/>
+      <point x="352" y="127"/>
       <point x="328" y="127" type="curve" smooth="yes"/>
-      <point x="221" y="127"/>
+      <point x="219" y="129"/>
       <point x="194" y="181"/>
-      <point x="194" y="270" type="curve" smooth="yes"/>
+      <point x="194" y="267" type="curve" smooth="yes"/>
       <point x="194" y="360"/>
-      <point x="222" y="428"/>
-      <point x="308" y="428" type="curve" smooth="yes"/>
-      <point x="358" y="428"/>
-      <point x="401" y="395"/>
+      <point x="223" y="428"/>
+      <point x="304" y="428" type="curve" smooth="yes"/>
+      <point x="361" y="428"/>
+      <point x="400" y="395"/>
       <point x="417" y="339" type="curve"/>
       <point x="553" y="375" type="line"/>
       <point x="529" y="486"/>
       <point x="437" y="555"/>
       <point x="310" y="555" type="curve" smooth="yes"/>
       <point x="145" y="555"/>
-      <point x="40" y="434"/>
+      <point x="40" y="439"/>
+      <point x="40" y="260" type="curve" smooth="yes"/>
+      <point x="40" y="76"/>
+      <point x="150" y="4"/>
+      <point x="273" y="0" type="curve" smooth="yes"/>
+      <point x="361" y="-3"/>
+      <point x="427" y="-3"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>c</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/04 07:14:16</string>
+      <string>2019/08/08 19:17:40</string>
     </dict>
   </lib>
 </glyph>

@@ -3,20 +3,27 @@
   <advance width="665"/>
   <unicode hex="0446"/>
   <outline>
-    <component base="pe-cy" yScale="-1" yOffset="540"/>
-    <component base="corner-cy" xOffset="449"/>
+    <contour>
+      <point x="519" y="-120" type="line"/>
+      <point x="655" y="-120" type="line"/>
+      <point x="655" y="120" type="line"/>
+      <point x="552" y="120" type="line"/>
+      <point x="552" y="540" type="line"/>
+      <point x="416" y="540" type="line"/>
+      <point x="416" y="127" type="line"/>
+      <point x="206" y="127" type="line"/>
+      <point x="206" y="540" type="line"/>
+      <point x="70" y="540" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/11 06:27:52</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
+      <string>2019/08/08 17:19:36</string>
     </dict>
   </lib>
 </glyph>

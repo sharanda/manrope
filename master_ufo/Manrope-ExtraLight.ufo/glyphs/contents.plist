@@ -614,6 +614,10 @@
     <string>egrave.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>eight.dnom</key>
+    <string>eight.dnom.glif</string>
+    <key>eight.numr</key>
+    <string>eight.numr.glif</string>
     <key>eight.tf</key>
     <string>eight.tf.glif</string>
     <key>eightsuperior</key>
@@ -682,6 +686,10 @@
     <string>fi.glif</string>
     <key>five</key>
     <string>five.glif</string>
+    <key>five.dnom</key>
+    <string>five.dnom.glif</string>
+    <key>five.numr</key>
+    <string>five.numr.glif</string>
     <key>five.tf</key>
     <string>five.tf.glif</string>
     <key>fivesuperior</key>
@@ -692,6 +700,10 @@
     <string>florin.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>four.dnom</key>
+    <string>four.dnom.glif</string>
+    <key>four.numr</key>
+    <string>four.numr.glif</string>
     <key>four.tf</key>
     <string>four.tf.glif</string>
     <key>foursuperior</key>
@@ -900,6 +912,10 @@
     <string>ncommaaccent.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
+    <key>nine.dnom</key>
+    <string>nine.dnom.glif</string>
+    <key>nine.numr</key>
+    <string>nine.numr.glif</string>
     <key>nine.tf</key>
     <string>nine.tf.glif</string>
     <key>ninesuperior</key>
@@ -958,6 +974,10 @@
     <string>omicrontonos.glif</string>
     <key>one</key>
     <string>one.glif</string>
+    <key>one.dnom</key>
+    <string>one.dnom.glif</string>
+    <key>one.numr</key>
+    <string>one.numr.glif</string>
     <key>one.tf</key>
     <string>one.tf.glif</string>
     <key>onehalf</key>
@@ -1082,6 +1102,10 @@
     <string>semicolon.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
+    <key>seven.dnom</key>
+    <string>seven.dnom.glif</string>
+    <key>seven.numr</key>
+    <string>seven.numr.glif</string>
     <key>seven.tf</key>
     <string>seven.tf.glif</string>
     <key>sevensuperior</key>
@@ -1102,6 +1126,10 @@
     <string>sigmafinal.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>six.dnom</key>
+    <string>six.dnom.glif</string>
+    <key>six.numr</key>
+    <string>six.numr.glif</string>
     <key>six.tf</key>
     <string>six.tf.glif</string>
     <key>sixsuperior</key>
@@ -1154,6 +1182,10 @@
     <string>thorn.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>three.dnom</key>
+    <string>three.dnom.glif</string>
+    <key>three.numr</key>
+    <string>three.numr.glif</string>
     <key>three.tf</key>
     <string>three.tf.glif</string>
     <key>threequarters</key>
@@ -1178,6 +1210,10 @@
     <string>tshe-cy.glif</string>
     <key>two</key>
     <string>two.glif</string>
+    <key>two.dnom</key>
+    <string>two.dnom.glif</string>
+    <key>two.numr</key>
+    <string>two.numr.glif</string>
     <key>two.tf</key>
     <string>two.tf.glif</string>
     <key>twosuperior</key>
@@ -1270,6 +1306,10 @@
     <string>ze-cy.loclB_G_R_.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>zero.dnom</key>
+    <string>zero.dnom.glif</string>
+    <key>zero.numr</key>
+    <string>zero.numr.glif</string>
     <key>zero.tf</key>
     <string>zero.tf.glif</string>
     <key>zerosuperior</key>

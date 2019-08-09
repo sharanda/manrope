@@ -4,12 +4,12 @@
   <unicode hex="0433"/>
   <outline>
     <contour>
-      <point x="460" y="540" type="line"/>
-      <point x="70" y="540" type="line"/>
       <point x="70" y="0" type="line"/>
       <point x="206" y="0" type="line"/>
       <point x="206" y="413" type="line"/>
       <point x="460" y="413" type="line"/>
+      <point x="460" y="540" type="line"/>
+      <point x="70" y="540" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>r</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/11 06:37:42</string>
+      <string>2019/08/08 18:31:48</string>
     </dict>
   </lib>
 </glyph>

@@ -6,20 +6,16 @@
     <contour>
       <point x="70" y="0" type="line"/>
       <point x="112" y="0" type="line"/>
-      <point x="112" y="540" type="line"/>
-      <point x="70" y="540" type="line"/>
-    </contour>
-    <contour>
-      <point x="458" y="540" type="line"/>
+      <point x="112" y="249" type="line"/>
+      <point x="458" y="249" type="line"/>
       <point x="458" y="0" type="line"/>
       <point x="500" y="0" type="line"/>
       <point x="500" y="540" type="line"/>
-    </contour>
-    <contour>
-      <point x="87" y="291" type="line"/>
-      <point x="87" y="249" type="line"/>
-      <point x="483" y="249" type="line"/>
-      <point x="483" y="291" type="line"/>
+      <point x="458" y="540" type="line"/>
+      <point x="458" y="291" type="line"/>
+      <point x="112" y="291" type="line"/>
+      <point x="112" y="540" type="line"/>
+      <point x="70" y="540" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +25,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/12 06:46:48</string>
+      <string>2019/08/08 18:33:05</string>
     </dict>
   </lib>
 </glyph>

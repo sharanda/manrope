@@ -3,21 +3,21 @@
   <advance width="777"/>
   <outline>
     <contour>
-      <point x="727" y="127" type="line"/>
-      <point x="40" y="127" type="line"/>
       <point x="40" y="-90" type="line"/>
       <point x="167" y="-90" type="line"/>
       <point x="167" y="0" type="line"/>
       <point x="599" y="0" type="line"/>
       <point x="599" y="-90" type="line"/>
       <point x="727" y="-90" type="line"/>
+      <point x="727" y="127" type="line"/>
+      <point x="40" y="127" type="line"/>
     </contour>
     <component base="V" yScale="-1" xOffset="57" yOffset="720"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/12 06:46:56</string>
+      <string>2019/08/08 18:30:58</string>
     </dict>
   </lib>
 </glyph>

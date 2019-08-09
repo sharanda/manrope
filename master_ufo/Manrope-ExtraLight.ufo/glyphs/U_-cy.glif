@@ -4,14 +4,14 @@
   <unicode hex="0423"/>
   <outline>
     <contour>
+      <point x="209" y="0" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="589" y="720" type="line"/>
       <point x="544" y="720" type="line"/>
       <point x="303" y="202" type="line"/>
       <point x="65" y="720" type="line"/>
       <point x="20" y="720" type="line"/>
       <point x="281" y="155" type="line"/>
-      <point x="209" y="0" type="line"/>
-      <point x="257" y="0" type="line"/>
-      <point x="589" y="720" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>y</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/04 03:04:04</string>
+      <string>2019/08/08 18:24:59</string>
     </dict>
   </lib>
 </glyph>

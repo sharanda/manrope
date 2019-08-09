@@ -4,13 +4,19 @@
   <unicode hex="0428"/>
   <outline>
     <contour>
-      <point x="412" y="720" type="line"/>
-      <point x="412" y="0" type="line"/>
-      <point x="548" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="890" y="0" type="line"/>
+      <point x="890" y="720" type="line"/>
+      <point x="754" y="720" type="line"/>
+      <point x="754" y="127" type="line"/>
+      <point x="548" y="127" type="line"/>
       <point x="548" y="720" type="line"/>
+      <point x="412" y="720" type="line"/>
+      <point x="412" y="127" type="line"/>
+      <point x="206" y="127" type="line"/>
+      <point x="206" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
     </contour>
-    <component base="Ge-cy" yScale="-1" yOffset="720"/>
-    <component base="Ge-cy" xScale="-1" yScale="-1" xOffset="960" yOffset="720"/>
   </outline>
   <lib>
     <dict>
@@ -19,7 +25,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/03 04:50:19</string>
+      <string>2019/08/08 18:26:23</string>
     </dict>
   </lib>
 </glyph>

@@ -4,15 +4,6 @@
   <unicode hex="20AC"/>
   <outline>
     <contour>
-      <point x="585" y="698" type="line"/>
-      <point x="539" y="723"/>
-      <point x="484" y="735"/>
-      <point x="428" y="735" type="curve" smooth="yes"/>
-      <point x="218" y="735"/>
-      <point x="110" y="585"/>
-      <point x="105" y="360" type="curve" smooth="yes"/>
-      <point x="100" y="148"/>
-      <point x="216" y="-15"/>
       <point x="428" y="-15" type="curve" smooth="yes"/>
       <point x="485" y="-15"/>
       <point x="540" y="-3"/>
@@ -30,18 +21,27 @@
       <point x="475" y="691"/>
       <point x="521" y="681"/>
       <point x="562" y="661" type="curve"/>
+      <point x="585" y="698" type="line"/>
+      <point x="539" y="723"/>
+      <point x="484" y="735"/>
+      <point x="428" y="735" type="curve" smooth="yes"/>
+      <point x="218" y="735"/>
+      <point x="110" y="585"/>
+      <point x="105" y="360" type="curve" smooth="yes"/>
+      <point x="100" y="148"/>
+      <point x="216" y="-15"/>
     </contour>
     <contour>
-      <point x="469" y="301" type="line"/>
-      <point x="30" y="301" type="line"/>
       <point x="30" y="259" type="line"/>
       <point x="469" y="259" type="line"/>
+      <point x="469" y="301" type="line"/>
+      <point x="30" y="301" type="line"/>
     </contour>
     <contour>
-      <point x="469" y="459" type="line"/>
-      <point x="30" y="459" type="line"/>
       <point x="30" y="417" type="line"/>
       <point x="469" y="417" type="line"/>
+      <point x="469" y="459" type="line"/>
+      <point x="30" y="459" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +51,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>C</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/04 08:10:25</string>
+      <string>2019/08/08 19:22:04</string>
     </dict>
   </lib>
 </glyph>

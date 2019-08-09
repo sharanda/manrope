@@ -4,19 +4,6 @@
   <unicode hex="0411"/>
   <outline>
     <contour>
-      <point x="100" y="720" type="line"/>
-      <point x="100" y="678" type="line"/>
-      <point x="490" y="678" type="line"/>
-      <point x="490" y="720" type="line"/>
-    </contour>
-    <contour>
-      <point x="70" y="720" type="line"/>
-      <point x="70" y="0" type="line"/>
-      <point x="112" y="0" type="line"/>
-      <point x="112" y="720" type="line"/>
-    </contour>
-    <contour>
-      <point x="112" y="42" type="line"/>
       <point x="112" y="0" type="line"/>
       <point x="335" y="0" type="line" smooth="yes"/>
       <point x="349" y="0"/>
@@ -46,6 +33,19 @@
       <point x="363" y="43"/>
       <point x="346" y="42"/>
       <point x="335" y="42" type="curve" smooth="yes"/>
+      <point x="112" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="678" type="line"/>
+      <point x="490" y="678" type="line"/>
+      <point x="490" y="720" type="line"/>
+      <point x="100" y="720" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +55,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>P</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 01:50:06</string>
+      <string>2019/08/08 18:22:58</string>
     </dict>
   </lib>
 </glyph>

@@ -5,18 +5,13 @@
     <key>GSCornerRadius</key>
     <integer>15</integer>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1252</string>
+    <string>1254</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Extra</string>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
-      <string>m</string>
-      <string>n</string>
-      <string>/eng</string>
-      <string>pþqbd</string>
-      <string>/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Iigrave-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Ustrait-cy/Shha-cy/Obarred-cy/De-cy.loclBGR/Zhe-cy.loclBGR/Ka-cy.loclBGR/El-cy.loclBGR/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/iigrave-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/ustrait-cy/shha-cy/obarred-cy/ve-cy.loclBGR/ge-cy.loclBGR/de-cy.loclBGR/zhe-cy.loclBGR/ze-cy.loclBGR/ii-cy.loclBGR/iishort-cy.loclBGR/iigrave-cy.loclBGR/ka-cy.loclBGR/el-cy.loclBGR/en-cy.loclBGR/pe-cy.loclBGR/te-cy.loclBGR/che-cy.loclBGR/tse-cy.loclBGR/sha-cy.loclBGR/shcha-cy.loclBGR/softsign-cy.loclBGR/iu-cy.loclBGR/be-cy.loclSRB</string>
-      <string>/Gheupturn-cy</string>
-      <string>h</string>
+      <string>/Eng</string>
+      <string>AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron Ç/Cdotaccent DÐ/Dcaron/Dcroat EÉ/Ecaron ÊË/Edotaccent È/Emacron/Eogonek FG/Gbreve/Gcommaaccent/Gdotaccent H/Hbar IÍÎÏ/Idotaccent Ì/Imacron/Iogonek JK/Kcommaaccent L/Lacute/Lcaron/Lcommaaccent/Lslash MN/Nacute/Ncaron/Ncommaaccent/Eng ÑOÓÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE PÞQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla/Scommaaccent/Germandbls T/Tbar/Tcaron/Tcedilla/Tcommaaccent UÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent/G.001 aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron ç/cdotaccent dð/dcaron/dcroat eé/ecaron êë/edotaccent è/emacron/eogonek fg/gbreve/gcommaaccent/gdotaccent h/hbar i/idotless íîï/idotaccent ì/imacron/iogonek jk/kcommaaccent l/lacute/lcaron/lcommaaccent/lslash mn/nacute/ncaron/ncommaaccent/eng ñoóôöò/ohungarumlaut/omacron øõ/oe pþqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent ßt/tbar/tcaron/tcedilla/tcommaaccent uúûüù/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent/f_f/f_f_l/fi/fl/t_t ªº</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
@@ -506,6 +501,26 @@
       <string>seven.tf</string>
       <string>eight.tf</string>
       <string>nine.tf</string>
+      <string>zero.dnom</string>
+      <string>one.dnom</string>
+      <string>two.dnom</string>
+      <string>three.dnom</string>
+      <string>four.dnom</string>
+      <string>five.dnom</string>
+      <string>six.dnom</string>
+      <string>seven.dnom</string>
+      <string>eight.dnom</string>
+      <string>nine.dnom</string>
+      <string>zero.numr</string>
+      <string>one.numr</string>
+      <string>two.numr</string>
+      <string>three.numr</string>
+      <string>four.numr</string>
+      <string>five.numr</string>
+      <string>six.numr</string>
+      <string>seven.numr</string>
+      <string>eight.numr</string>
+      <string>nine.numr</string>
       <string>zerosuperior</string>
       <string>onesuperior</string>
       <string>twosuperior</string>

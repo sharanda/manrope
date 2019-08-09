@@ -3,17 +3,30 @@
   <advance width="652"/>
   <outline>
     <contour>
-      <point x="306" y="291" type="line"/>
-      <point x="348" y="291" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="306" y="269" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="348" y="269" type="line"/>
+      <point x="593" y="0" type="line"/>
+      <point x="643" y="0" type="line"/>
+      <point x="395" y="270" type="line"/>
+      <point x="635" y="540" type="line"/>
+      <point x="585" y="540" type="line"/>
+      <point x="348" y="271" type="line"/>
       <point x="348" y="720" type="line"/>
       <point x="306" y="720" type="line"/>
+      <point x="306" y="271" type="line"/>
+      <point x="69" y="540" type="line"/>
+      <point x="19" y="540" type="line"/>
+      <point x="259" y="270" type="line"/>
     </contour>
-    <component base="zhe-cy"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/12 06:46:56</string>
+      <string>2019/08/08 19:02:33</string>
     </dict>
   </lib>
 </glyph>

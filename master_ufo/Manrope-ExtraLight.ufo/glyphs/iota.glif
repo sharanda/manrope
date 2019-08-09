@@ -4,14 +4,18 @@
   <unicode hex="03B9"/>
   <outline>
     <contour>
+      <point x="197" y="-5" type="curve" smooth="yes"/>
+      <point x="226" y="-9"/>
+      <point x="260" y="-7"/>
+      <point x="292" y="0" type="curve"/>
       <point x="292" y="40" type="line"/>
       <point x="265" y="34"/>
       <point x="232" y="33"/>
-      <point x="202" y="36" type="curve"/>
-      <point x="171" y="39"/>
-      <point x="144" y="55"/>
-      <point x="133" y="82" type="curve"/>
-      <point x="119" y="107"/>
+      <point x="202" y="36" type="curve" smooth="yes"/>
+      <point x="170" y="40"/>
+      <point x="148" y="52"/>
+      <point x="133" y="81" type="curve" smooth="yes"/>
+      <point x="119" y="109"/>
       <point x="122" y="132"/>
       <point x="122" y="179" type="curve" smooth="yes"/>
       <point x="122" y="540" type="line"/>
@@ -19,13 +23,9 @@
       <point x="80" y="179" type="line" smooth="yes"/>
       <point x="80" y="132"/>
       <point x="79" y="98"/>
-      <point x="95" y="63" type="curve"/>
+      <point x="95" y="63" type="curve" smooth="yes"/>
       <point x="114" y="22"/>
       <point x="150" y="1"/>
-      <point x="197" y="-5" type="curve"/>
-      <point x="229" y="-9"/>
-      <point x="260" y="-7"/>
-      <point x="292" y="0" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>x</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/04 07:53:02</string>
+      <string>2019/08/08 19:14:00</string>
     </dict>
   </lib>
 </glyph>

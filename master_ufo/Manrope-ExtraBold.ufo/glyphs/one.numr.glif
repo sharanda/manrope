@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.numr" format="2">
+  <advance width="351"/>
+  <outline>
+    <contour>
+      <point x="143.875" y="720" type="line"/>
+      <point x="59.5" y="669.375" type="line"/>
+      <point x="59.5" y="575.625" type="line"/>
+      <point x="143.875" y="627.5" type="line"/>
+      <point x="143.875" y="270" type="line"/>
+      <point x="230.75" y="270" type="line"/>
+      <point x="230.75" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>one</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>one</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/08 17:55:34</string>
+    </dict>
+  </lib>
+</glyph>

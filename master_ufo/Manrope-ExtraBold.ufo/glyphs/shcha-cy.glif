@@ -3,8 +3,24 @@
   <advance width="773"/>
   <unicode hex="0449"/>
   <outline>
-    <component base="sha-cy"/>
-    <component base="corner-cy" xOffset="557"/>
+    <contour>
+      <point x="627" y="-120" type="line"/>
+      <point x="763" y="-120" type="line"/>
+      <point x="763" y="120" type="line"/>
+      <point x="732" y="120" type="line"/>
+      <point x="732" y="540" type="line"/>
+      <point x="602" y="540" type="line"/>
+      <point x="602" y="120" type="line"/>
+      <point x="466" y="120" type="line"/>
+      <point x="466" y="540" type="line"/>
+      <point x="336" y="540" type="line"/>
+      <point x="336" y="120" type="line"/>
+      <point x="200" y="120" type="line"/>
+      <point x="200" y="540" type="line"/>
+      <point x="70" y="540" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="627" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -13,12 +29,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>tse-cy</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/11 08:35:09</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
+      <string>2019/08/08 18:34:31</string>
     </dict>
   </lib>
 </glyph>

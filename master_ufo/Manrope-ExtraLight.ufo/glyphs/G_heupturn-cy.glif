@@ -6,28 +6,18 @@
     <contour>
       <point x="70" y="0" type="line"/>
       <point x="112" y="0" type="line"/>
-      <point x="112" y="700" type="line"/>
-      <point x="70" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="70" y="678" type="line"/>
-      <point x="510" y="678" type="line"/>
-      <point x="510" y="720" type="line"/>
-      <point x="70" y="720" type="line"/>
-    </contour>
-    <contour>
-      <point x="408" y="678" type="line"/>
+      <point x="112" y="678" type="line"/>
       <point x="520" y="678" type="line"/>
       <point x="520" y="800" type="line"/>
       <point x="478" y="800" type="line"/>
       <point x="478" y="720" type="line"/>
-      <point x="408" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/05 21:10:20</string>
+      <string>2019/08/08 18:23:26</string>
     </dict>
   </lib>
 </glyph>

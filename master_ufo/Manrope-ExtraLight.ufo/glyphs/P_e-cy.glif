@@ -3,8 +3,16 @@
   <advance width="670"/>
   <unicode hex="041F"/>
   <outline>
-    <component base="Ge-cy"/>
-    <component base="Ge-cy" xScale="-1" xOffset="670"/>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="678" type="line"/>
+      <point x="558" y="678" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="600" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -13,12 +21,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/01 14:40:56</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
+      <string>2019/08/08 18:24:43</string>
     </dict>
   </lib>
 </glyph>

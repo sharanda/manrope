@@ -3,13 +3,22 @@
   <advance width="724"/>
   <unicode hex="2191"/>
   <outline>
-    <component base="greater" xScale="0.0001" xyScale="1" yxScale="-1" yScale="0.0001" xOffset="677" yOffset="230"/>
-    <component base="emdash" xScale="-0.0006" xyScale="1" yxScale="-1" yScale="-0.0006" xOffset="678" yOffset="-60"/>
+    <contour>
+      <point x="310" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="415" y="555" type="line"/>
+      <point x="540" y="430" type="line"/>
+      <point x="604" y="493" type="line"/>
+      <point x="362" y="735" type="line"/>
+      <point x="120" y="493" type="line"/>
+      <point x="184" y="430" type="line"/>
+      <point x="310" y="556" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 05:36:59</string>
+      <string>2019/08/08 19:28:11</string>
     </dict>
   </lib>
 </glyph>

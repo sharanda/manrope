@@ -4,16 +4,16 @@
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="105" y="398" type="line"/>
-      <point x="105" y="293" type="line"/>
-      <point x="525" y="293" type="line"/>
-      <point x="525" y="398" type="line"/>
+      <point x="105" y="263" type="line"/>
+      <point x="525" y="263" type="line"/>
+      <point x="525" y="368" type="line"/>
+      <point x="105" y="368" type="line"/>
     </contour>
     <contour>
-      <point x="105" y="199" type="line"/>
       <point x="105" y="94" type="line"/>
       <point x="525" y="94" type="line"/>
       <point x="525" y="199" type="line"/>
+      <point x="105" y="199" type="line"/>
     </contour>
     <component base="Y"/>
   </outline>
@@ -24,7 +24,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>Y</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/05/19 08:02:03</string>
+      <string>2019/08/08 19:24:54</string>
     </dict>
   </lib>
 </glyph>
