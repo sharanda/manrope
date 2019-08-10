@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="540"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <component base="minus"/>
+    <component base="period" xScale="0.90909" yScale="0.90909" xOffset="125" yOffset="464"/>
+    <component base="period" xScale="0.90909" yScale="0.90909" xOffset="125" yOffset="134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/05 16:12:45</string>
+    </dict>
+  </lib>
+</glyph>

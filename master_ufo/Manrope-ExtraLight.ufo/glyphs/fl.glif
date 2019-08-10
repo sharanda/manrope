@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl" format="2">
+  <advance width="581"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <contour>
+      <point x="329" y="540" type="line"/>
+      <point x="459" y="540" type="line"/>
+      <point x="459" y="498" type="line"/>
+      <point x="329" y="498" type="line"/>
+    </contour>
+    <component base="f"/>
+    <component base="l" xOffset="379"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/17 03:57:22</string>
+    </dict>
+  </lib>
+</glyph>

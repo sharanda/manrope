@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Agrave" format="2">
+  <advance width="683"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <component base="Aacute" xScale="-1" xOffset="683"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/20 05:52:05</string>
+    </dict>
+  </lib>
+</glyph>

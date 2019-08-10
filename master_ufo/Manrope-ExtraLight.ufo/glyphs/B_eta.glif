@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Beta" format="2">
+  <advance width="601"/>
+  <unicode hex="0392"/>
+  <outline>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 03:03:00</string>
+    </dict>
+  </lib>
+</glyph>

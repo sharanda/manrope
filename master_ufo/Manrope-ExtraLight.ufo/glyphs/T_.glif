@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="590"/>
+  <unicode hex="0054"/>
+  <note>
+T
+</note>
+  <outline>
+    <contour>
+      <point x="274" y="700" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="316" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="720" type="line"/>
+      <point x="10" y="678" type="line"/>
+      <point x="580" y="678" type="line"/>
+      <point x="580" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/02 07:14:08</string>
+    </dict>
+  </lib>
+</glyph>

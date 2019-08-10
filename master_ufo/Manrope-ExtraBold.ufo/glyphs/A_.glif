@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="683"/>
+  <unicode hex="0041"/>
+  <note>
+A
+</note>
+  <outline>
+    <contour>
+      <point x="152" y="277" type="line"/>
+      <point x="152" y="150" type="line"/>
+      <point x="532" y="150" type="line"/>
+      <point x="532" y="277" type="line"/>
+    </contour>
+    <component base="V" yScale="-1" xOffset="15" yOffset="720"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 05:35:05</string>
+    </dict>
+  </lib>
+</glyph>

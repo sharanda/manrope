@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse-cy" format="2">
+  <advance width="761"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="615" y="-120" type="line"/>
+      <point x="751" y="-120" type="line"/>
+      <point x="751" y="120" type="line"/>
+      <point x="670" y="120" type="line"/>
+      <point x="670" y="700" type="line"/>
+      <point x="534" y="700" type="line"/>
+      <point x="534" y="120" type="line"/>
+      <point x="206" y="120" type="line"/>
+      <point x="206" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="615" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tse-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/08 18:25:58</string>
+    </dict>
+  </lib>
+</glyph>

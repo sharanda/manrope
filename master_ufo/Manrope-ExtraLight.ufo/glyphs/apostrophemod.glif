@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophemod" format="2">
+  <advance width="343"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <component base="comma" xOffset="90" yOffset="640"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/05/19 07:36:51</string>
+    </dict>
+  </lib>
+</glyph>

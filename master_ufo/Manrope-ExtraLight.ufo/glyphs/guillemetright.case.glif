@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright.case" format="2">
+  <advance width="502"/>
+  <outline>
+    <component base="guillemetright" yOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guillemetright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guillemetright</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/08 08:55:06</string>
+    </dict>
+  </lib>
+</glyph>

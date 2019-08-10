@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="750"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="251" y="90" type="line"/>
+      <point x="586" y="570" type="line"/>
+      <point x="501" y="630" type="line"/>
+      <point x="165" y="150" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/08 19:25:40</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

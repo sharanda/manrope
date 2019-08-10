@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacron" format="2">
+  <advance width="608"/>
+  <unicode hex="0113"/>
+  <outline>
+    <component base="e"/>
+    <component base="macroncomb" xOffset="67" yOffset="-180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/20 05:52:16</string>
+    </dict>
+  </lib>
+</glyph>

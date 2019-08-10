@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ygrave" format="2">
+  <advance width="570"/>
+  <unicode hex="1EF3"/>
+  <outline>
+    <component base="y"/>
+    <component base="gravecomb" xOffset="22" yOffset="-180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/05 18:30:40</string>
+    </dict>
+  </lib>
+</glyph>

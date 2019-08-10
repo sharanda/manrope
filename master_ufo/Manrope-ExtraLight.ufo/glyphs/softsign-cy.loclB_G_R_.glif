@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softsign-cy.loclBGR" format="2">
+  <advance width="512"/>
+  <outline>
+    <component base="softsign-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/11 06:41:15</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Er-cy" format="2">
+  <advance width="650"/>
+  <unicode hex="0420"/>
+  <outline>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:48</string>
+    </dict>
+  </lib>
+</glyph>

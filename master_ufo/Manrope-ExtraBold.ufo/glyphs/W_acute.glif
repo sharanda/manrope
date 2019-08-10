@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wacute" format="2">
+  <advance width="989"/>
+  <unicode hex="1E82"/>
+  <outline>
+    <component base="W"/>
+    <component base="acutecomb" xOffset="197"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:17</string>
+    </dict>
+  </lib>
+</glyph>

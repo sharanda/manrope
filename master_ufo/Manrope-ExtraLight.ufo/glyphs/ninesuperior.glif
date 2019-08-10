@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ninesuperior" format="2">
+  <advance width="446"/>
+  <unicode hex="2079"/>
+  <outline>
+    <component base="sixsuperior" xScale="-1" yScale="-1" xOffset="446" yOffset="986"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>nine</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>nine</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 09:18:26</string>
+    </dict>
+  </lib>
+</glyph>

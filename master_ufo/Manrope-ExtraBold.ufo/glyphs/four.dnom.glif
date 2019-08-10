@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.dnom" format="2">
+  <advance width="422"/>
+  <outline>
+    <contour>
+      <point x="372" y="150" type="line"/>
+      <point x="332" y="150" type="line"/>
+      <point x="332" y="262" type="line"/>
+      <point x="246" y="262" type="line"/>
+      <point x="246" y="150" type="line"/>
+      <point x="148" y="150" type="line"/>
+      <point x="290" y="450" type="line"/>
+      <point x="192" y="450" type="line"/>
+      <point x="50" y="150" type="line"/>
+      <point x="50" y="70" type="line"/>
+      <point x="246" y="70" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="70" type="line"/>
+      <point x="372" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/08 18:02:18</string>
+    </dict>
+  </lib>
+</glyph>

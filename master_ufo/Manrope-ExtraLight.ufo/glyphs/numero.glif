@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1090"/>
+  <unicode hex="2116"/>
+  <outline>
+    <component base="N"/>
+    <component base="degree" xOffset="650"/>
+    <component base="hyphen" xOffset="650"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/24 02:32:57</string>
+    </dict>
+  </lib>
+</glyph>

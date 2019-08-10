@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="219" y="879" type="curve"/>
+      <point x="165" y="879"/>
+      <point x="120" y="834"/>
+      <point x="120" y="780" type="curve"/>
+      <point x="120" y="725"/>
+      <point x="165" y="681"/>
+      <point x="219" y="681" type="curve"/>
+      <point x="274" y="681"/>
+      <point x="318" y="725"/>
+      <point x="318" y="780" type="curve"/>
+      <point x="318" y="834"/>
+      <point x="274" y="879"/>
+    </contour>
+    <contour>
+      <point x="219" y="840" type="curve"/>
+      <point x="253" y="840"/>
+      <point x="279" y="813"/>
+      <point x="279" y="780" type="curve"/>
+      <point x="279" y="747"/>
+      <point x="253" y="720"/>
+      <point x="219" y="720" type="curve"/>
+      <point x="186" y="720"/>
+      <point x="159" y="747"/>
+      <point x="159" y="780" type="curve"/>
+      <point x="159" y="813"/>
+      <point x="186" y="840"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/05/14 15:50:37</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>438</integer>
+    </dict>
+  </lib>
+</glyph>

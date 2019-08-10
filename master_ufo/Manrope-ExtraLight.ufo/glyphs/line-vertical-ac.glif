@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="line-vertical-ac" format="2">
+  <advance width="42"/>
+  <outline>
+    <contour>
+      <point x="0" y="-240" type="line"/>
+      <point x="42" y="-240" type="line"/>
+      <point x="42" y="115" type="line"/>
+      <point x="39" y="115" type="line"/>
+      <point x="39" y="540" type="line"/>
+      <point x="0" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/05 20:54:22</string>
+    </dict>
+  </lib>
+</glyph>

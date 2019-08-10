@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash" format="2">
+  <advance width="448"/>
+  <unicode hex="002F"/>
+  <note>
+slash
+</note>
+  <outline>
+    <component base="backslash" xScale="-1" xOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 02:29:02</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

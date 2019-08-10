@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="be-cy.loclSRB" format="2">
+  <advance width="573"/>
+  <outline>
+    <component base="be-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/08 19:09:05</string>
+    </dict>
+  </lib>
+</glyph>

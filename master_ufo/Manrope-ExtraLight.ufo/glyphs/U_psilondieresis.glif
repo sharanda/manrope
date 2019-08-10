@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondieresis" format="2">
+  <advance width="519"/>
+  <unicode hex="03AB"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dieresiscomb" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/01 09:48:52</string>
+    </dict>
+  </lib>
+</glyph>

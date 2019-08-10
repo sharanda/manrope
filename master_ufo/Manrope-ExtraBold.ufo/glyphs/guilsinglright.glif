@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="645"/>
+  <unicode hex="203A"/>
+  <outline>
+    <component base="less" xScale="-1" xOffset="645"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>greater</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>greater</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/05/18 07:14:08</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

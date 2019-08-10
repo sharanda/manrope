@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iigrave-cy" format="2">
+  <advance width="662"/>
+  <unicode hex="040D"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="gravecomb" xOffset="98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:56</string>
+    </dict>
+  </lib>
+</glyph>

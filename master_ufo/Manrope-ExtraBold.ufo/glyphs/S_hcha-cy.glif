@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shcha-cy" format="2">
+  <advance width="981"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="835" y="-120" type="line"/>
+      <point x="971" y="-120" type="line"/>
+      <point x="971" y="120" type="line"/>
+      <point x="765" y="120" type="line"/>
+      <point x="765" y="0" type="line"/>
+      <point x="835" y="0" type="line"/>
+    </contour>
+    <component base="Sha-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tse-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/08 18:26:38</string>
+    </dict>
+  </lib>
+</glyph>

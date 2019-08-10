@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="670"/>
+  <unicode hex="0052"/>
+  <note>
+R
+</note>
+  <outline>
+    <contour>
+      <point x="630" y="0" type="line"/>
+      <point x="474" y="320" type="line"/>
+      <point x="334" y="293" type="line"/>
+      <point x="476" y="0" type="line"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 05:35:21</string>
+    </dict>
+  </lib>
+</glyph>

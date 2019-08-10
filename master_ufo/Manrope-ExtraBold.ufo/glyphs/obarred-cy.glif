@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred-cy" format="2">
+  <advance width="627"/>
+  <unicode hex="04E9"/>
+  <outline>
+    <contour>
+      <point x="101" y="218" type="line"/>
+      <point x="527" y="218" type="line"/>
+      <point x="527" y="323" type="line"/>
+      <point x="101" y="323" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/08 19:00:20</string>
+    </dict>
+  </lib>
+</glyph>

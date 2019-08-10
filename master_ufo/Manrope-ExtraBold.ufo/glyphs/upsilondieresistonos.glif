@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilondieresistonos" format="2">
+  <advance width="568"/>
+  <unicode hex="03B0"/>
+  <outline>
+    <component base="v"/>
+    <component base="dieresistonos" xOffset="-16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/02 15:11:15</string>
+    </dict>
+  </lib>
+</glyph>

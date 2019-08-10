@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iu-cy.loclBGR" format="2">
+  <advance width="867"/>
+  <outline>
+    <contour>
+      <point x="70" y="720" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="206" y="720" type="line"/>
+    </contour>
+    <component base="iu-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:56</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve" format="2">
+  <advance width="683"/>
+  <unicode hex="0102"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb" xOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:27</string>
+    </dict>
+  </lib>
+</glyph>

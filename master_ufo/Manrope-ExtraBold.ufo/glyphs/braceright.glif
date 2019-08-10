@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright" format="2">
+  <advance width="459"/>
+  <unicode hex="007D"/>
+  <outline>
+    <component base="braceleft" xScale="-1" xOffset="459"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/12/04 00:45:33</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

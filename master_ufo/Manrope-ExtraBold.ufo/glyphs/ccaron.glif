@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccaron" format="2">
+  <advance width="583"/>
+  <unicode hex="010D"/>
+  <outline>
+    <component base="c"/>
+    <component base="caroncomb" xOffset="8" yOffset="-180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 03:02:56</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="405"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="355" y="399" type="line"/>
+      <point x="304" y="399" type="line"/>
+      <point x="304" y="533" type="line"/>
+      <point x="263" y="533" type="line"/>
+      <point x="263" y="399" type="line"/>
+      <point x="97" y="399" type="line"/>
+      <point x="248" y="720" type="line"/>
+      <point x="202" y="720" type="line"/>
+      <point x="50" y="399" type="line"/>
+      <point x="50" y="359" type="line"/>
+      <point x="263" y="359" type="line"/>
+      <point x="263" y="270" type="line"/>
+      <point x="304" y="270" type="line"/>
+      <point x="304" y="359" type="line"/>
+      <point x="355" y="359" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/04 09:12:20</string>
+    </dict>
+  </lib>
+</glyph>

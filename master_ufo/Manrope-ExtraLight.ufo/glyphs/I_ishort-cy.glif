@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishort-cy" format="2">
+  <advance width="662"/>
+  <unicode hex="0419"/>
+  <outline>
+    <component base="N" xScale="-1" xOffset="662"/>
+    <component base="brevecomb" xOffset="107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:48</string>
+    </dict>
+  </lib>
+</glyph>

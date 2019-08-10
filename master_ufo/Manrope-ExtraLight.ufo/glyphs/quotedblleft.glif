@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="363"/>
+  <unicode hex="201C"/>
+  <outline>
+    <component base="quotedblright" xScale="-1" xOffset="363"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/07/31 14:35:39</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

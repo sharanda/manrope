@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nje-cy" format="2">
+  <advance width="1019"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="390" type="line"/>
+      <point x="536" y="390" type="line"/>
+      <point x="536" y="432" type="line"/>
+      <point x="112" y="432" type="line"/>
+      <point x="112" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="438"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/08 18:28:36</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

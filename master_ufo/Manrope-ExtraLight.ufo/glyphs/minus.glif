@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus" format="2">
+  <advance width="540"/>
+  <unicode hex="2212"/>
+  <outline>
+    <component base="strokeshortcomb" yOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/11/21 06:01:57</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iegrave-cy" format="2">
+  <advance width="573"/>
+  <unicode hex="0450"/>
+  <outline>
+    <component base="egrave"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/12 06:46:56</string>
+    </dict>
+  </lib>
+</glyph>

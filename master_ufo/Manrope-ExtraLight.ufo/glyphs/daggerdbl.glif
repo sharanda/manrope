@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="374"/>
+  <unicode hex="2021"/>
+  <outline>
+    <component base="minus" xScale="0.60494" xOffset="24" yOffset="110"/>
+    <component base="minus" xScale="0.60494" xOffset="24" yOffset="-93"/>
+    <component base="bar" xOffset="76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/05 17:55:54</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.loclBGR" format="2">
+  <advance width="814"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="334" y="260" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="454" y="260" type="line"/>
+      <point x="621" y="0" type="line"/>
+      <point x="778" y="0" type="line"/>
+      <point x="590" y="270" type="line"/>
+      <point x="765" y="540" type="line"/>
+      <point x="617" y="540" type="line"/>
+      <point x="454" y="280" type="line"/>
+      <point x="454" y="720" type="line"/>
+      <point x="334" y="720" type="line"/>
+      <point x="334" y="280" type="line"/>
+      <point x="171" y="540" type="line"/>
+      <point x="23" y="540" type="line"/>
+      <point x="198" y="270" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/08 19:02:33</string>
+    </dict>
+  </lib>
+</glyph>
