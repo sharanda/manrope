@@ -3,14 +3,16 @@
 set -e
 
 
-echo "Generating Static fonts"
+echo "Generating font directories"
 
 mkdir -p ./test/ttf
 mkdir -p ./test/variable
 echo "Made font directories"
 
-# fontmake -g source/manrope.glyphs -i --round-instances -o ttf --output-dir ./test/ttf/ 
-# echo "Made ttfs"
+
+echo "Generating Statics"
+fontmake -g source/manrope.glyphs -i --round-instances -o ttf --output-dir ./test/ttf/ 
+echo "Made Statics"
 
 
 echo "Generating VFs"
@@ -39,4 +41,24 @@ echo "bit 3 fixed"
 
 echo "rename fixed ttf.fix to ttf"
 mv Manrope-VF-AH.ttf.fix Manrope-VF-AH.ttf
-echo "Build COMPLETE NUCLEAR LAUNCH DETECTED"
+
+cd ..
+
+echo "fixing the statics"
+
+ttfs=$(ls ./ttf/*.ttf)
+echo $ttfs
+for ttf in $ttfs
+do
+	gftools fix-dsig -f $ttf;
+	gftools fix-nonhinting $ttf "$ttf.fix";
+	mv "$ttf.fix" $ttf;
+done
+echo "fixed nonhinting ttfs as well as DSIG"
+
+echo "removing the backup files"
+rm -rf ./ttf/*backup*.ttf
+echo "backup files removed"
+
+
+echo "Build Complete  *NUCLEAR LAUNCH DETECTED* *zerglings neutralized*"

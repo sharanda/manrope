@@ -26,7 +26,11 @@
     <string>h.glif</string>
     <key>m</key>
     <string>m.glif</string>
+    <key>omega</key>
+    <string>omega.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>ze-cy</key>
+    <string>ze-cy.glif</string>
   </dict>
 </plist>

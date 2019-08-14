@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R" format="2">
-  <advance width="591"/>
+  <advance width="611"/>
   <unicode hex="0052"/>
   <note>
 R
@@ -52,7 +52,7 @@ R
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/14 00:37:55</string>
+      <string>2019/08/14 15:47:48</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

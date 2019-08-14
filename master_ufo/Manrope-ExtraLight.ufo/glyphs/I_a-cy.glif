@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ia-cy" format="2">
-  <advance width="591"/>
+  <advance width="611"/>
   <unicode hex="042F"/>
   <outline>
-    <component base="R" xScale="-1" xOffset="591"/>
+    <component base="R" xScale="-1" xOffset="611"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/13 23:06:33</string>
+      <string>2019/08/14 15:57:43</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

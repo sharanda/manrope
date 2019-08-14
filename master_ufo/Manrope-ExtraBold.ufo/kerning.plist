@@ -6,13 +6,13 @@
     <dict>
       <key>public.kern2.C</key>
       <integer>-25</integer>
-      <key>public.kern2.S</key>
-      <integer>-60</integer>
     </dict>
     <key>F</key>
     <dict>
       <key>public.kern2.A</key>
       <integer>-10</integer>
+      <key>public.kern2.J</key>
+      <integer>-50</integer>
       <key>public.kern2.a</key>
       <integer>-20</integer>
       <key>public.kern2.c</key>
@@ -29,6 +29,8 @@
     <key>P</key>
     <dict>
       <key>public.kern2.A</key>
+      <integer>-50</integer>
+      <key>public.kern2.J</key>
       <integer>-50</integer>
       <key>public.kern2.X</key>
       <integer>-30</integer>
@@ -198,6 +200,8 @@
       <integer>-30</integer>
       <key>public.kern2.Y</key>
       <integer>-30</integer>
+      <key>public.kern2.Z</key>
+      <integer>-25</integer>
       <key>public.kern2.comma</key>
       <integer>-50</integer>
       <key>public.kern2.parenright</key>
@@ -877,6 +881,8 @@
     <dict>
       <key>public.kern2.A</key>
       <integer>-120</integer>
+      <key>public.kern2.S</key>
+      <integer>-60</integer>
       <key>public.kern2.a</key>
       <integer>-30</integer>
       <key>public.kern2.c</key>
