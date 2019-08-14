@@ -45,10 +45,6 @@
     </dict>
     <key>Q</key>
     <dict>
-      <key>public.kern2.T</key>
-      <integer>-20</integer>
-      <key>public.kern2.V</key>
-      <integer>-30</integer>
       <key>public.kern2.X</key>
       <integer>-30</integer>
       <key>public.kern2.comma</key>
@@ -60,8 +56,6 @@
       <integer>-20</integer>
       <key>public.kern2.w</key>
       <integer>-15</integer>
-      <key>public.kern2.x</key>
-      <integer>-20</integer>
       <key>public.kern2.y</key>
       <integer>-40</integer>
       <key>quotedbl</key>
@@ -119,8 +113,6 @@
     </dict>
     <key>public.kern1.A</key>
     <dict>
-      <key>Q</key>
-      <integer>-20</integer>
       <key>hyphen</key>
       <integer>-40</integer>
       <key>public.kern2.A</key>
@@ -439,8 +431,6 @@
     </dict>
     <key>public.kern1.V</key>
     <dict>
-      <key>Q</key>
-      <integer>-20</integer>
       <key>hyphen</key>
       <integer>-45</integer>
       <key>public.kern2.A</key>
@@ -488,8 +478,6 @@
     </dict>
     <key>public.kern1.W</key>
     <dict>
-      <key>Q</key>
-      <integer>-20</integer>
       <key>public.kern2.A</key>
       <integer>-50</integer>
       <key>public.kern2.C</key>
@@ -521,8 +509,6 @@
     </dict>
     <key>public.kern1.X</key>
     <dict>
-      <key>Q</key>
-      <integer>-30</integer>
       <key>hyphen</key>
       <integer>-30</integer>
       <key>public.kern2.C</key>
@@ -661,8 +647,6 @@
       <key>public.kern2.parenright</key>
       <integer>-40</integer>
       <key>public.kern2.quotesingle</key>
-      <integer>-20</integer>
-      <key>public.kern2.x</key>
       <integer>-20</integer>
       <key>public.kern2.y</key>
       <integer>-20</integer>

@@ -7,28 +7,18 @@ E
 </note>
   <outline>
     <contour>
-      <point x="70" y="720" type="line"/>
       <point x="70" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="206" y="720" type="line"/>
-    </contour>
-    <contour>
-      <point x="157" y="720" type="line"/>
-      <point x="157" y="593" type="line"/>
-      <point x="540" y="593" type="line"/>
-      <point x="540" y="720" type="line"/>
-    </contour>
-    <contour>
-      <point x="157" y="127" type="line"/>
-      <point x="157" y="0" type="line"/>
       <point x="540" y="0" type="line"/>
       <point x="540" y="127" type="line"/>
-    </contour>
-    <contour>
-      <point x="157" y="439" type="line"/>
-      <point x="157" y="312" type="line"/>
+      <point x="206" y="127" type="line"/>
+      <point x="206" y="312" type="line"/>
       <point x="480" y="312" type="line"/>
       <point x="480" y="439" type="line"/>
+      <point x="206" y="439" type="line"/>
+      <point x="206" y="593" type="line"/>
+      <point x="540" y="593" type="line"/>
+      <point x="540" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +26,9 @@ E
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/11 10:02:16</string>
+      <string>2019/08/12 17:38:13</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

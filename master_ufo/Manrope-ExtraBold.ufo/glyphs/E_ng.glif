@@ -4,22 +4,25 @@
   <unicode hex="014A"/>
   <outline>
     <contour>
-      <point x="429" y="-229" type="line"/>
-      <point x="465" y="-238"/>
-      <point x="513" y="-244"/>
-      <point x="562" y="-234" type="curve" smooth="yes"/>
-      <point x="624" y="-221"/>
-      <point x="659" y="-167"/>
+      <point x="509" y="-239" type="curve" smooth="yes"/>
+      <point x="606" y="-239"/>
+      <point x="659" y="-193"/>
       <point x="659" y="-88" type="curve" smooth="yes"/>
-      <point x="659" y="144" type="line"/>
-      <point x="424" y="164" type="line"/>
-      <point x="479" y="85" type="line" smooth="yes"/>
-      <point x="537" y="1"/>
-      <point x="547" y="-50"/>
-      <point x="547" y="-68" type="curve" smooth="yes"/>
-      <point x="547" y="-149"/>
-      <point x="460" y="-132"/>
+      <point x="659" y="60" type="line"/>
+      <point x="443" y="120" type="line"/>
+      <point x="482" y="60" type="line" smooth="yes"/>
+      <point x="532" y="-18"/>
+      <point x="547" y="-48"/>
+      <point x="547" y="-79" type="curve" smooth="yes"/>
+      <point x="547" y="-123"/>
+      <point x="507" y="-132"/>
+      <point x="471" y="-132" type="curve" smooth="yes"/>
+      <point x="455" y="-132"/>
+      <point x="439" y="-130"/>
       <point x="429" y="-129" type="curve"/>
+      <point x="429" y="-229" type="line"/>
+      <point x="452" y="-235"/>
+      <point x="479" y="-239"/>
     </contour>
     <component base="N"/>
   </outline>
@@ -30,7 +33,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>N</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/08 19:30:41</string>
+      <string>2019/08/14 00:40:24</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

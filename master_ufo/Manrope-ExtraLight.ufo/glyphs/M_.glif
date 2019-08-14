@@ -7,11 +7,6 @@ M
 </note>
   <outline>
     <contour>
-      <point x="761" y="720" type="line"/>
-      <point x="719" y="720" type="line"/>
-      <point x="416" y="51" type="line"/>
-      <point x="110" y="720" type="line"/>
-      <point x="70" y="720" type="line"/>
       <point x="70" y="0" type="line"/>
       <point x="112" y="0" type="line"/>
       <point x="112" y="619" type="line"/>
@@ -20,6 +15,11 @@ M
       <point x="719" y="619" type="line"/>
       <point x="719" y="1" type="line"/>
       <point x="761" y="1" type="line"/>
+      <point x="761" y="720" type="line"/>
+      <point x="719" y="720" type="line"/>
+      <point x="416" y="51" type="line"/>
+      <point x="110" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,9 @@ M
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/03 04:35:47</string>
+      <string>2019/08/13 18:53:15</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

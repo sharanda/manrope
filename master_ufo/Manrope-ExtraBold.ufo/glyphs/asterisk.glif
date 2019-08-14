@@ -7,6 +7,11 @@ asterisk
 </note>
   <outline>
     <contour>
+      <point x="163" y="355" type="line"/>
+      <point x="222" y="450" type="line"/>
+      <point x="281" y="355" type="line"/>
+      <point x="378" y="425" type="line"/>
+      <point x="304" y="509" type="line"/>
       <point x="414" y="537" type="line"/>
       <point x="377" y="651" type="line"/>
       <point x="273" y="606" type="line"/>
@@ -17,17 +22,14 @@ asterisk
       <point x="30" y="537" type="line"/>
       <point x="140" y="509" type="line"/>
       <point x="66" y="425" type="line"/>
-      <point x="163" y="355" type="line"/>
-      <point x="222" y="450" type="line"/>
-      <point x="281" y="355" type="line"/>
-      <point x="378" y="425" type="line"/>
-      <point x="304" y="509" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/11/24 02:46:26</string>
+      <string>2019/08/13 23:29:37</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

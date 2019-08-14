@@ -4,12 +4,14 @@
   <unicode hex="00D8"/>
   <outline>
     <component base="O"/>
-    <component base="slashlongcomb" xOffset="32"/>
+    <component base="slashlongcomb" xScale="0.99939" xyScale="0.0349" yxScale="-0.0349" yScale="0.99939" xOffset="6" yOffset="-14"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/02 07:52:21</string>
+      <string>2019/08/14 00:38:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

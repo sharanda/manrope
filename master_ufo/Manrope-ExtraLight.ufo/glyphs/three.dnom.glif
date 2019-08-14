@@ -2,37 +2,7 @@
 <glyph name="three.dnom" format="2">
   <advance width="380"/>
   <outline>
-    <contour>
-      <point x="320" y="221"/>
-      <point x="264" y="280"/>
-      <point x="178" y="278" type="curve"/>
-      <point x="316" y="409" type="line"/>
-      <point x="316" y="450" type="line"/>
-      <point x="58" y="450" type="line"/>
-      <point x="58" y="410" type="line"/>
-      <point x="262" y="410" type="line"/>
-      <point x="103" y="262" type="line"/>
-      <point x="124" y="229" type="line"/>
-      <point x="141" y="237"/>
-      <point x="160" y="242"/>
-      <point x="177" y="242" type="curve" smooth="yes"/>
-      <point x="236" y="242"/>
-      <point x="278" y="202"/>
-      <point x="278" y="136" type="curve" smooth="yes"/>
-      <point x="278" y="72"/>
-      <point x="241" y="30"/>
-      <point x="178" y="30" type="curve" smooth="yes"/>
-      <point x="135" y="30"/>
-      <point x="95" y="52"/>
-      <point x="79" y="99" type="curve"/>
-      <point x="40" y="87" type="line"/>
-      <point x="60" y="26"/>
-      <point x="113" y="-10"/>
-      <point x="178" y="-10" type="curve" smooth="yes"/>
-      <point x="260" y="-10"/>
-      <point x="320" y="47"/>
-      <point x="320" y="136" type="curve" smooth="yes"/>
-    </contour>
+    <component base="threesuperior" yOffset="-270"/>
   </outline>
   <lib>
     <dict>
@@ -41,7 +11,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>three</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/08 18:02:00</string>
+      <string>2019/08/13 23:25:42</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

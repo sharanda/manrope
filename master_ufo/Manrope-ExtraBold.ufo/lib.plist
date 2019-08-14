@@ -5,13 +5,23 @@
     <key>GSCornerRadius</key>
     <integer>15</integer>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1254</string>
+    <string>1256</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Extra</string>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
-      <string>/Eng</string>
-      <string>AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron Ç/Cdotaccent DÐ/Dcaron/Dcroat EÉ/Ecaron ÊË/Edotaccent È/Emacron/Eogonek FG/Gbreve/Gcommaaccent/Gdotaccent H/Hbar IÍÎÏ/Idotaccent Ì/Imacron/Iogonek JK/Kcommaaccent L/Lacute/Lcaron/Lcommaaccent/Lslash MN/Nacute/Ncaron/Ncommaaccent/Eng ÑOÓÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE PÞQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla/Scommaaccent/Germandbls T/Tbar/Tcaron/Tcedilla/Tcommaaccent UÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent/G.001 aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron ç/cdotaccent dð/dcaron/dcroat eé/ecaron êë/edotaccent è/emacron/eogonek fg/gbreve/gcommaaccent/gdotaccent h/hbar i/idotless íîï/idotaccent ì/imacron/iogonek jk/kcommaaccent l/lacute/lcaron/lcommaaccent/lslash mn/nacute/ncaron/ncommaaccent/eng ñoóôöò/ohungarumlaut/omacron øõ/oe pþqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent ßt/tbar/tcaron/tcedilla/tcommaaccent uúûüù/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent/f_f/f_f_l/fi/fl/t_t ªº</string>
+      <string>Ð</string>
+      <string>AÁÂÀC/acutecomb/Cacute DÐ/circumflexcomb/caroncomb/Dcaron/Dcroat/acutecomb EÉÊ/Hbar/acutecomb IÍ/circumflexcomb IÎ,L/Lcaron/Lcommaaccent N/acutecomb/Nacute OÓ/circumflexcomb Ô/hungarumlautcomb/Ohungarumlaut R/Racute S/Sacute T/Tcaron UÚÛ/Uhungarumlaut W/Wacute/Wcircumflex YÝ/Ycircumflex Z/Zacute aáâc/cacute eéê/idotless íîjl/lcaron/lcommaaccent n/nacute oóôò/ohungarumlaut r/racute s/sacute uúû/uhungarumlaut w/wacute/wcircumflex yý/ycircumflex z/zacute N/brevecomb/Iishort-cy/Iigrave-cy/Kje-cy/Che-cy P/Softsign-cy/Yeru-cy/El-cy/Lje-cy/ge-cy/gje-cy/ka-cy/kje-cy</string>
+      <string>/Softsign-cy</string>
+      <string>/slashshortcomb l/lslash</string>
+      <string>t</string>
+      <string>/t_t</string>
+      <string>«»/guilsinglleft/guilsinglright/guillemetleft.case/guillemetright.case/guilsinglleft.case/guilsinglright.case M</string>
+      <string>L/Lcommaaccent T/caroncomb/Tcaron UÚÛ/Uhungarumlaut/Wacute/Wcircumflex Ý/Ycircumflex/Zacute é/lcaron/lcommaaccent/nacute/sacute ý/ycircumflex/zacute</string>
+      <string>W</string>
+      <string>aeaæe</string>
+      <string>AÁ/brevecomb/Abreve Â/dieresiscomb ÄÀ/macroncomb/Amacron/ogonekcomb/Aogonek/ringcomb Å/tildecomb ÃÆBC/acutecomb/Cacute/Ccaron/cedillacomb Ç/dotaccentcomb/Cdotaccent DÐ/caroncomb/Dcaron/Dcroat EÉ/Ecaron Ê/dieresiscomb/Io-cy Ë/dotaccentcomb/Edotaccent/acutecomb/gravecomb È/macroncomb/Emacron/Eogonek FG/brevecomb/Gbreve/commaaccentcomb/Gcommaaccent/dotaccentcomb/Gdotaccent H/Hbar IÍÎ/dieresiscomb Ï/dotaccentcomb/Idotaccent/gravecomb Ì/macroncomb/Imacron/Iogonek JK/commaaccentcomb/Kcommaaccent L/Lacute ,/Lcaron/Lcommaaccent/slashshortcomb/Lslash MN/Nacute/caroncomb/Ncaron/Ncommaaccent/Eng ÑO/acutecomb ÓÔ/dieresiscomb ÖÒ/Ohungarumlaut/Omacron/slashlongcomb ØÕ/OE PÞQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla/Scommaaccent/Germandbls T/Tbar/Tcaron/Tcedilla/Tcommaaccent UÚÛÜÙ/Uhungarumlaut/Umacron/ogonekcomb/ogonek/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron ç/cdotaccent dð/dcaron/macroncomb/dcroat eé/ecaron êë/edotaccent è/emacron/eogonek fg/gbreve/gcommaaccent/gdotaccent h/hbar i/idotless íîï/idotaccent ì/imacron/iogonek jk/kcommaaccent l/lacute/lcaron/lcommaaccent/lslash mn/nacute/ncaron/ncommaaccent/eng ñoóôöò/ohungarumlaut/omacron øõ/oe pþqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent ßt/tbar/tcaron/cedillacomb t/tcedilla/tcommaaccent uúûüù/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent/f_f/f_f_l/fi/fl/t_t ªº/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Iigrave-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Oval-condensed/Iu-cy/Ia-cy/Dje-cy/Ustrait-cy/Shha-cy/Obarred-cy/De-cy.loclBGR/Zhe-cy.loclBGR/Ka-cy.loclBGR/El-cy.loclBGR/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/iigrave-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/ustrait-cy/shha-cy/obarred-cy/ve-cy.loclBGR/ge-cy.loclBGR/de-cy.loclBGR/zhe-cy.loclBGR/ze-cy.loclBGR/ii-cy.loclBGR/iishort-cy.loclBGR/iigrave-cy.loclBGR/ka-cy.loclBGR/el-cy.loclBGR/en-cy.loclBGR/pe-cy.loclBGR/te-cy.loclBGR/che-cy.loclBGR/tse-cy.loclBGR/sha-cy.loclBGR/shcha-cy.loclBGR/softsign-cy.loclBGR/iu-cy.loclBGR/be-cy.loclSRB/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Upsilontonos/Omegatonos/Iotadieresis/Upsilondieresis/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega/iotatonos/iotadieresis/iotadieresistonos/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos 0123456789/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr/zerosuperior ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior/fraction ½¼¾.,:;/ellipsis !¡?¿·/bullet *#///backslash/colon.case/exclamdown.case/questiondown.case/periodcentered.case (){}[]/parenleft.case/parenright.case/braceleft.case/braceright.case/bracketleft.case/bracketright.case -­/endash/emdash/nonbreakinghyphen _/hyphen.case/endash.case/emdash.case/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotedblrightreversed «»/guilsinglleft/guilsinglright "'/guillemetleft.case/guillemetright.case/guilsinglleft.case/guilsinglright.case/anoteleia/questiongreek   &#13;/.notdef/.null/wordjoiner/space_less_three_space.liga ¢¤$/euro/florin/hryvnia/ruble £¥/divisionslash +/minus ×÷=/notequal &gt;&lt;/greaterequal/lessequal ±/approxequal ~¬^/infinity/emptyset/integral/product/summation/radical µ/partialdiff %/perthousand/greater.case/less.case/upArrow/rightArrow/downArrow/leftArrow/carriagereturn/rightArrow.case/leftArrow.case/lozenge @&amp;¶§©®/trademark °|¦/dagger/daggerdbl/numero/at.case/copyright.case/numeral-greek/lowernumeral-greek/apostrophemod ¨/dotaccent `´/hungarumlaut/circumflex/caron/breve/ring/tilde ¯¸/ogonek/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/strokelongcomb/slashshortcomb/slashlongcomb/tonos/tonos.case/dieresistonos/brevecomb-cy/Oval-condensed/omega-side/m-curve/nonmarkingreturn/oval-inner/line-vertical-de/line-vertical-ac/line-vertical-short/n-curve/corner-cy</string>
+      <string>/Aogonek</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
@@ -162,7 +172,6 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
-      <string>G.001</string>
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
@@ -581,6 +590,7 @@
       <string>quotedblright</string>
       <string>quoteleft</string>
       <string>quoteright</string>
+      <string>quotedblrightreversed</string>
       <string>guillemetleft</string>
       <string>guillemetright</string>
       <string>guilsinglleft</string>
@@ -699,6 +709,7 @@
       <string>tonos.case</string>
       <string>dieresistonos</string>
       <string>brevecomb-cy</string>
+      <string>Oval-condensed</string>
       <string>omega-side</string>
       <string>m-curve</string>
       <string>nonmarkingreturn</string>
@@ -803,6 +814,8 @@
       <string>uni04E8</string>
       <key>Omega</key>
       <string>uni03A9</string>
+      <key>Oval-condensed</key>
+      <string>Ovalcondensed</string>
       <key>Pe-cy</key>
       <string>uni041F</string>
       <key>Rcommaaccent</key>
@@ -1043,6 +1056,8 @@
       <string>uni043F.loclBGR</string>
       <key>questiongreek</key>
       <string>uni037E</string>
+      <key>quotedblrightreversed</key>
+      <string>uni201F</string>
       <key>rcommaaccent</key>
       <string>uni0157</string>
       <key>rightArrow</key>

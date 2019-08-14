@@ -7,14 +7,6 @@ n
 </note>
   <outline>
     <contour>
-      <point x="70" y="0" type="line"/>
-      <point x="207" y="0" type="line"/>
-      <point x="207" y="361" type="line"/>
-      <point x="190" y="361" type="line"/>
-      <point x="190" y="540" type="line"/>
-      <point x="70" y="540" type="line"/>
-    </contour>
-    <contour>
       <point x="438" y="0" type="line"/>
       <point x="576" y="0" type="line"/>
       <point x="576" y="303" type="line" smooth="yes"/>
@@ -32,11 +24,21 @@ n
       <point x="438" y="304"/>
       <point x="438" y="255" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="207" y="361" type="line"/>
+      <point x="190" y="361" type="line"/>
+      <point x="190" y="540" type="line"/>
+      <point x="70" y="540" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/08 15:13:46</string>
+      <string>2019/08/12 19:01:39</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

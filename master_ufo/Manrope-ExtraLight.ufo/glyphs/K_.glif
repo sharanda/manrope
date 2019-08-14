@@ -25,7 +25,9 @@ K
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/01 09:12:37</string>
+      <string>2019/08/13 18:51:13</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

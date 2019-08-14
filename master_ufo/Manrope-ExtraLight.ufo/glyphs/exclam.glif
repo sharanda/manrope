@@ -7,17 +7,19 @@ exclam
 </note>
   <outline>
     <contour>
-      <point x="120" y="64" type="line"/>
       <point x="120" y="0" type="line"/>
       <point x="162" y="0" type="line"/>
       <point x="162" y="64" type="line"/>
+      <point x="120" y="64" type="line"/>
     </contour>
     <component base="idotless" xOffset="40" yOffset="180"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/03/21 06:19:33</string>
+      <string>2019/08/13 23:28:40</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

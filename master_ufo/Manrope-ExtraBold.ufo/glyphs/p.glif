@@ -50,7 +50,9 @@ p
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/05 21:06:04</string>
+      <string>2019/08/13 19:36:56</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

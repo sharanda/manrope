@@ -12,7 +12,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>exclam</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/05/20 08:42:03</string>
+      <string>2019/08/14 00:35:46</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

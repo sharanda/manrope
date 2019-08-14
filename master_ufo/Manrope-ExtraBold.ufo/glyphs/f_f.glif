@@ -12,12 +12,14 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/17 03:57:40</string>
+      <string>2019/08/13 19:57:54</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>
         <integer>-1</integer>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

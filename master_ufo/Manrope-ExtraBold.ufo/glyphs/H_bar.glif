@@ -4,17 +4,19 @@
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="10" y="616" type="line"/>
       <point x="10" y="480" type="line"/>
       <point x="744" y="480" type="line"/>
       <point x="744" y="616" type="line"/>
+      <point x="10" y="616" type="line"/>
     </contour>
-    <component base="H"/>
+    <component base="H" xOffset="10"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/12 06:46:34</string>
+      <string>2019/08/14 00:38:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

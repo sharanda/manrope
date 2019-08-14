@@ -4,10 +4,10 @@
   <unicode hex="00FE"/>
   <outline>
     <contour>
-      <point x="70" y="720" type="line"/>
       <point x="70" y="391" type="line"/>
       <point x="112" y="391" type="line"/>
       <point x="112" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
     </contour>
     <component base="p"/>
   </outline>
@@ -18,7 +18,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>p</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/04 08:26:41</string>
+      <string>2019/08/13 19:37:06</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

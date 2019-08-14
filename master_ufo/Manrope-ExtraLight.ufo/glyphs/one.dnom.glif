@@ -1,16 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.dnom" format="2">
-  <advance width="310"/>
+  <advance width="306"/>
   <outline>
-    <contour>
-      <point x="147" y="460" type="line"/>
-      <point x="60" y="408" type="line"/>
-      <point x="60" y="361" type="line"/>
-      <point x="147" y="413" type="line"/>
-      <point x="147" y="0" type="line"/>
-      <point x="190" y="0" type="line"/>
-      <point x="190" y="460" type="line"/>
-    </contour>
+    <component base="onesuperior" yOffset="-270"/>
   </outline>
   <lib>
     <dict>
@@ -19,7 +11,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>one</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/08 18:01:30</string>
+      <string>2019/08/13 23:24:38</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

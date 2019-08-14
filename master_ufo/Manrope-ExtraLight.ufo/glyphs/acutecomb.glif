@@ -4,9 +4,9 @@
   <outline>
     <contour>
       <point x="137" y="786" type="line"/>
-      <point x="120" y="821" type="line"/>
-      <point x="320" y="914" type="line"/>
       <point x="337" y="879" type="line"/>
+      <point x="320" y="914" type="line"/>
+      <point x="120" y="821" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -14,9 +14,11 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/05/13 12:06:30</string>
+      <string>2019/08/14 00:39:15</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>457</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

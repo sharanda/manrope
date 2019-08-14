@@ -7,6 +7,17 @@ numbersign
 </note>
   <outline>
     <contour>
+      <point x="183" y="1" type="line"/>
+      <point x="315" y="1" type="line"/>
+      <point x="365" y="189" type="line"/>
+      <point x="473" y="189" type="line"/>
+      <point x="423" y="1" type="line"/>
+      <point x="555" y="1" type="line"/>
+      <point x="605" y="189" type="line"/>
+      <point x="779" y="189" type="line"/>
+      <point x="813" y="317" type="line"/>
+      <point x="639" y="317" type="line"/>
+      <point x="667" y="420" type="line"/>
       <point x="841" y="420" type="line"/>
       <point x="875" y="547" type="line"/>
       <point x="701" y="547" type="line"/>
@@ -24,29 +35,20 @@ numbersign
       <point x="94" y="317" type="line"/>
       <point x="60" y="189" type="line"/>
       <point x="234" y="189" type="line"/>
-      <point x="183" y="1" type="line"/>
-      <point x="315" y="1" type="line"/>
-      <point x="365" y="189" type="line"/>
-      <point x="473" y="189" type="line"/>
-      <point x="423" y="1" type="line"/>
-      <point x="555" y="1" type="line"/>
-      <point x="605" y="189" type="line"/>
-      <point x="779" y="189" type="line"/>
-      <point x="813" y="317" type="line"/>
-      <point x="639" y="317" type="line"/>
-      <point x="667" y="420" type="line"/>
     </contour>
     <contour>
-      <point x="507" y="317" type="line"/>
       <point x="400" y="317" type="line"/>
       <point x="427" y="420" type="line"/>
       <point x="535" y="420" type="line"/>
+      <point x="507" y="317" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/05/04 12:33:12</string>
+      <string>2019/08/13 23:29:43</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

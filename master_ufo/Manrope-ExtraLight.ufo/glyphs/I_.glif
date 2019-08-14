@@ -7,16 +7,18 @@ I
 </note>
   <outline>
     <contour>
-      <point x="80" y="720" type="line"/>
       <point x="80" y="0" type="line"/>
       <point x="122" y="0" type="line"/>
       <point x="122" y="720" type="line"/>
+      <point x="80" y="720" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/07/25 11:13:32</string>
+      <string>2019/08/13 18:42:44</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

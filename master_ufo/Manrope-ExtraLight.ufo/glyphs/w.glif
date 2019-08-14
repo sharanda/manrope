@@ -7,6 +7,12 @@ w
 </note>
   <outline>
     <contour>
+      <point x="185" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="372" y="469" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="559" y="0" type="line"/>
+      <point x="724" y="540" type="line"/>
       <point x="681" y="540" type="line"/>
       <point x="537" y="72" type="line"/>
       <point x="394" y="540" type="line"/>
@@ -14,18 +20,14 @@ w
       <point x="207" y="72" type="line"/>
       <point x="64" y="540" type="line"/>
       <point x="20" y="540" type="line"/>
-      <point x="185" y="0" type="line"/>
-      <point x="229" y="0" type="line"/>
-      <point x="372" y="469" type="line"/>
-      <point x="515" y="0" type="line"/>
-      <point x="559" y="0" type="line"/>
-      <point x="724" y="540" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/08/24 13:58:22</string>
+      <string>2019/08/13 19:56:35</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

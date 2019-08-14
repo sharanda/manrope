@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="beta" format="2">
-  <advance width="544"/>
+  <advance width="543"/>
   <unicode hex="03B2"/>
   <outline>
     <contour>
@@ -65,7 +65,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>B</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/08 19:08:51</string>
+      <string>2019/08/13 23:19:03</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

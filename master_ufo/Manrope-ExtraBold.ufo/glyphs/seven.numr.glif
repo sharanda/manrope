@@ -2,15 +2,7 @@
 <glyph name="seven.numr" format="2">
   <advance width="374"/>
   <outline>
-    <contour>
-      <point x="81" y="270" type="line"/>
-      <point x="173" y="270" type="line"/>
-      <point x="324" y="640" type="line"/>
-      <point x="324" y="720" type="line"/>
-      <point x="40" y="720" type="line"/>
-      <point x="40" y="640" type="line"/>
-      <point x="233" y="640" type="line"/>
-    </contour>
+    <component base="sevensuperior"/>
   </outline>
   <lib>
     <dict>
@@ -19,7 +11,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>seven</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/08 17:56:01</string>
+      <string>2019/08/13 23:26:17</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

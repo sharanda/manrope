@@ -14,7 +14,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/12 06:46:17</string>
+      <string>2019/08/14 00:38:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

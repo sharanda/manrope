@@ -8,13 +8,15 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/05/15 08:12:08</string>
+      <string>2019/08/14 00:39:15</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>468</integer>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>1</integer>
       </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

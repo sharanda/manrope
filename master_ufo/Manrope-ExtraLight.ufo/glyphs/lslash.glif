@@ -9,12 +9,14 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/01 05:10:43</string>
+      <string>2019/08/12 19:13:24</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>
         <integer>-1</integer>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

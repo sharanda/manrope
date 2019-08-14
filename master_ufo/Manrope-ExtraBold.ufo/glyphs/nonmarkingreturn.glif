@@ -9,7 +9,9 @@ nonmarkingreturn
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/07/30 03:49:27</string>
+      <string>2019/08/14 00:38:57</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

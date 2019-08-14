@@ -4,10 +4,10 @@
   <unicode hex="FB02"/>
   <outline>
     <contour>
-      <point x="370" y="540" type="line"/>
-      <point x="500" y="540" type="line"/>
-      <point x="500" y="435" type="line"/>
       <point x="370" y="435" type="line"/>
+      <point x="500" y="435" type="line"/>
+      <point x="500" y="540" type="line"/>
+      <point x="370" y="540" type="line"/>
     </contour>
     <component base="f"/>
     <component base="l" xOffset="415"/>
@@ -19,7 +19,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>l</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/17 03:57:22</string>
+      <string>2019/08/13 19:59:03</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onehalf" format="2">
-  <advance width="1043"/>
+  <advance width="1040"/>
   <unicode hex="00BD"/>
   <outline>
     <component base="one.numr"/>
@@ -14,7 +14,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>one.numr</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/08 19:20:18</string>
+      <string>2019/08/14 00:31:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

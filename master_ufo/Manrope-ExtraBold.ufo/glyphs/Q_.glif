@@ -7,10 +7,10 @@ Q
 </note>
   <outline>
     <contour>
+      <point x="633" y="-15" type="line"/>
       <point x="716" y="69" type="line"/>
       <point x="507" y="278" type="line"/>
       <point x="423" y="194" type="line"/>
-      <point x="633" y="-15" type="line"/>
     </contour>
     <component base="O"/>
   </outline>
@@ -21,7 +21,9 @@ Q
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/04 07:50:59</string>
+      <string>2019/08/14 00:36:43</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

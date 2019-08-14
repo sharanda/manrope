@@ -7,16 +7,16 @@ I
 </note>
   <outline>
     <contour>
-      <point x="80" y="720" type="line"/>
       <point x="80" y="0" type="line"/>
       <point x="216" y="0" type="line"/>
       <point x="216" y="720" type="line"/>
+      <point x="80" y="720" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/07/25 11:13:32</string>
+      <string>2019/08/13 18:42:44</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -27,7 +27,7 @@ I
           <key>origin</key>
           <array>
             <integer>0</integer>
-            <integer>0</integer>
+            <integer>3</integer>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -47,7 +47,7 @@ I
           <key>origin</key>
           <array>
             <integer>0</integer>
-            <integer>3</integer>
+            <integer>2</integer>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -77,6 +77,8 @@ I
           <string>Stem</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

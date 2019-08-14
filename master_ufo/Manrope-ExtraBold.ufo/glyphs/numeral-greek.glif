@@ -12,7 +12,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>quotesingle</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/04 09:24:33</string>
+      <string>2019/08/14 00:33:07</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -126,8 +126,6 @@
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
-    <key>G.001</key>
-    <string>G_.001.glif</string>
     <key>Gamma</key>
     <string>G_amma.glif</string>
     <key>Gbreve</key>
@@ -272,6 +270,8 @@
     <string>O_slash.glif</string>
     <key>Otilde</key>
     <string>O_tilde.glif</string>
+    <key>Oval-condensed</key>
+    <string>O_val-condensed.glif</string>
     <key>P</key>
     <string>P_.glif</string>
     <key>Pe-cy</key>
@@ -1054,6 +1054,8 @@
     <string>quotedblleft.glif</string>
     <key>quotedblright</key>
     <string>quotedblright.glif</string>
+    <key>quotedblrightreversed</key>
+    <string>quotedblrightreversed.glif</string>
     <key>quoteleft</key>
     <string>quoteleft.glif</string>
     <key>quoteright</key>

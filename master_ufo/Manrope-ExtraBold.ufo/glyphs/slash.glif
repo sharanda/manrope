@@ -11,11 +11,13 @@ slash
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 02:29:02</string>
+      <string>2019/08/14 00:35:46</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>1</integer>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

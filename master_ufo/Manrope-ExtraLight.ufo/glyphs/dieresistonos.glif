@@ -4,16 +4,16 @@
   <unicode hex="0385"/>
   <outline>
     <contour>
-      <point x="161" y="720" type="line"/>
-      <point x="161" y="660" type="line"/>
-      <point x="221" y="660" type="line"/>
-      <point x="221" y="720" type="line"/>
-    </contour>
-    <contour>
-      <point x="380" y="720" type="line"/>
       <point x="380" y="660" type="line"/>
       <point x="440" y="660" type="line"/>
       <point x="440" y="720" type="line"/>
+      <point x="380" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="660" type="line"/>
+      <point x="221" y="660" type="line"/>
+      <point x="221" y="720" type="line"/>
+      <point x="161" y="720" type="line"/>
     </contour>
     <component base="tonos" xOffset="17"/>
   </outline>
@@ -22,7 +22,9 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/03 08:26:46</string>
+      <string>2019/08/14 00:39:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="011A"/>
   <outline>
     <component base="E"/>
-    <component base="caroncomb" xOffset="47"/>
+    <component base="caroncomb" xOffset="50"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>E</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/15 07:56:33</string>
+      <string>2019/08/13 18:02:11</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

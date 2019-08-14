@@ -1,46 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcedilla" format="2">
-  <advance width="399"/>
+  <advance width="379"/>
   <unicode hex="0163"/>
   <outline>
-    <contour>
-      <point x="258" y="-115" type="curve"/>
-      <point x="247" y="-95"/>
-      <point x="229" y="-80"/>
-      <point x="210" y="-72" type="curve"/>
-      <point x="239" y="6" type="line"/>
-      <point x="203" y="22" type="line"/>
-      <point x="159" y="-97" type="line"/>
-      <point x="191" y="-108"/>
-      <point x="211" y="-113"/>
-      <point x="221" y="-134" type="curve"/>
-      <point x="229" y="-149"/>
-      <point x="227" y="-165"/>
-      <point x="218" y="-179" type="curve"/>
-      <point x="210" y="-193"/>
-      <point x="195" y="-200"/>
-      <point x="176" y="-199" type="curve"/>
-      <point x="164" y="-198"/>
-      <point x="150" y="-194"/>
-      <point x="136" y="-189" type="curve"/>
-      <point x="122" y="-226" type="line"/>
-      <point x="138" y="-233"/>
-      <point x="155" y="-239"/>
-      <point x="174" y="-240" type="curve"/>
-      <point x="203" y="-243"/>
-      <point x="237" y="-229"/>
-      <point x="253" y="-203" type="curve"/>
-      <point x="271" y="-178"/>
-      <point x="273" y="-141"/>
-    </contour>
     <component base="t"/>
+    <component base="cedillacomb" xOffset="23"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>t</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/12 06:46:27</string>
+      <string>2019/08/13 19:54:43</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

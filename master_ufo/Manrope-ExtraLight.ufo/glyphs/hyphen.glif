@@ -7,16 +7,18 @@ hyphen
 </note>
   <outline>
     <contour>
-      <point x="60" y="336" type="line"/>
       <point x="60" y="294" type="line"/>
       <point x="360" y="294" type="line"/>
       <point x="360" y="336" type="line"/>
+      <point x="60" y="336" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/11/08 09:11:17</string>
+      <string>2019/08/13 23:33:43</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

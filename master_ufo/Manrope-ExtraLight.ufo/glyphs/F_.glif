@@ -7,22 +7,16 @@ F
 </note>
   <outline>
     <contour>
-      <point x="70" y="720" type="line"/>
-      <point x="112" y="720" type="line"/>
-      <point x="112" y="0" type="line"/>
       <point x="70" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="97" y="720" type="line"/>
-      <point x="470" y="720" type="line"/>
-      <point x="470" y="678" type="line"/>
-      <point x="97" y="678" type="line"/>
-    </contour>
-    <contour>
-      <point x="97" y="381" type="line"/>
-      <point x="410" y="381" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="339" type="line"/>
       <point x="410" y="339" type="line"/>
-      <point x="97" y="339" type="line"/>
+      <point x="410" y="381" type="line"/>
+      <point x="112" y="381" type="line"/>
+      <point x="112" y="678" type="line"/>
+      <point x="470" y="678" type="line"/>
+      <point x="470" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +24,9 @@ F
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/07/25 11:15:38</string>
+      <string>2019/08/14 00:36:40</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

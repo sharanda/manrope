@@ -4,10 +4,6 @@
   <unicode hex="043C"/>
   <outline>
     <contour>
-      <point x="556" y="540" type="line"/>
-      <point x="368" y="190" type="line"/>
-      <point x="180" y="540" type="line"/>
-      <point x="70" y="540" type="line"/>
       <point x="70" y="0" type="line"/>
       <point x="200" y="0" type="line"/>
       <point x="200" y="269" type="line"/>
@@ -17,6 +13,10 @@
       <point x="536" y="0" type="line"/>
       <point x="666" y="0" type="line"/>
       <point x="666" y="540" type="line"/>
+      <point x="556" y="540" type="line"/>
+      <point x="368" y="190" type="line"/>
+      <point x="180" y="540" type="line"/>
+      <point x="70" y="540" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/11 08:25:36</string>
+      <string>2019/08/13 23:11:00</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

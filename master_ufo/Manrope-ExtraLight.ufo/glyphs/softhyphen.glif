@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="softhyphen" format="2">
-  <advance width="600"/>
+  <advance width="420"/>
   <unicode hex="00AD"/>
   <outline>
     <component base="hyphen"/>
@@ -8,7 +8,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/01 06:00:01</string>
+      <string>2019/08/13 23:34:07</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

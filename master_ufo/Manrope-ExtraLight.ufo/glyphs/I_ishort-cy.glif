@@ -3,7 +3,18 @@
   <advance width="662"/>
   <unicode hex="0419"/>
   <outline>
-    <component base="N" xScale="-1" xOffset="662"/>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="550" y="646" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="592" y="720" type="line"/>
+      <point x="550" y="720" type="line"/>
+      <point x="112" y="75" type="line"/>
+      <point x="112" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
     <component base="brevecomb" xOffset="107"/>
   </outline>
   <lib>
@@ -13,7 +24,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>N</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/12 06:46:48</string>
+      <string>2019/08/13 23:00:12</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

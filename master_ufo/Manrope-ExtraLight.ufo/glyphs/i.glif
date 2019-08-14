@@ -7,10 +7,10 @@ i
 </note>
   <outline>
     <contour>
-      <point x="80" y="730" type="line"/>
       <point x="80" y="666" type="line"/>
       <point x="122" y="666" type="line"/>
       <point x="122" y="730" type="line"/>
+      <point x="80" y="730" type="line"/>
     </contour>
     <component base="idotless"/>
   </outline>
@@ -21,7 +21,9 @@ i
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>l</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/10 10:58:33</string>
+      <string>2019/08/13 19:33:07</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

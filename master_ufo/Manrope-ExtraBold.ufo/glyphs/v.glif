@@ -4,19 +4,21 @@
   <unicode hex="0076"/>
   <outline>
     <contour>
+      <point x="216" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="548" y="540" type="line"/>
       <point x="412" y="540" type="line"/>
       <point x="284" y="166" type="line"/>
       <point x="156" y="540" type="line"/>
       <point x="20" y="540" type="line"/>
-      <point x="216" y="0" type="line"/>
-      <point x="352" y="0" type="line"/>
-      <point x="548" y="540" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 02:37:53</string>
+      <string>2019/08/13 19:56:30</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,11 +4,11 @@
   <outline>
     <contour>
       <point x="143" y="786" type="line"/>
-      <point x="120" y="818" type="line"/>
-      <point x="243" y="909" type="line"/>
-      <point x="366" y="818" type="line"/>
-      <point x="343" y="786" type="line"/>
       <point x="243" y="860" type="line"/>
+      <point x="343" y="786" type="line"/>
+      <point x="366" y="818" type="line"/>
+      <point x="243" y="909" type="line"/>
+      <point x="120" y="818" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -16,9 +16,11 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/05/13 11:14:20</string>
+      <string>2019/08/14 00:39:15</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>486</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

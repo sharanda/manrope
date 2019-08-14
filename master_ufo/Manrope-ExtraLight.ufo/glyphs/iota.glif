@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iota" format="2">
-  <advance width="302"/>
+  <advance width="322"/>
   <unicode hex="03B9"/>
   <outline>
     <contour>
@@ -33,9 +33,11 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>i</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>x</string>
+      <string>t</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/08 19:14:00</string>
+      <string>2019/08/13 23:19:54</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

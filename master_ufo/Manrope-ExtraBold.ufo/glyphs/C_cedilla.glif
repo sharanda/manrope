@@ -13,7 +13,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>C</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/03 09:24:39</string>
+      <string>2019/08/14 00:36:18</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

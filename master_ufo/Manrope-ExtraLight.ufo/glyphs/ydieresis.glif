@@ -4,7 +4,7 @@
   <unicode hex="00FF"/>
   <outline>
     <component base="y"/>
-    <component base="dieresiscomb" xOffset="34" yOffset="-180"/>
+    <component base="dieresiscomb" xOffset="17" yOffset="-180"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>y</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 02:59:13</string>
+      <string>2019/08/13 19:57:29</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>
