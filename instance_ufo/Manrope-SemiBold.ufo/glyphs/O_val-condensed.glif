@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oval-condensed" format="2">
+  <advance width="657"/>
+  <outline>
+    <contour>
+      <point x="328" y="-15" type="curve" smooth="yes"/>
+      <point x="519" y="-15"/>
+      <point x="627" y="137"/>
+      <point x="627" y="360" type="curve" smooth="yes"/>
+      <point x="627" y="579"/>
+      <point x="519" y="735"/>
+      <point x="328" y="735" type="curve" smooth="yes"/>
+      <point x="138" y="735"/>
+      <point x="30" y="579"/>
+      <point x="30" y="360" type="curve" smooth="yes"/>
+      <point x="30" y="141"/>
+      <point x="138" y="-15"/>
+    </contour>
+    <contour>
+      <point x="328" y="84" type="curve" smooth="yes"/>
+      <point x="202" y="84"/>
+      <point x="140" y="204"/>
+      <point x="141" y="360" type="curve" smooth="yes"/>
+      <point x="142" y="516"/>
+      <point x="202" y="635"/>
+      <point x="328" y="635" type="curve" smooth="yes"/>
+      <point x="455" y="635"/>
+      <point x="516" y="516"/>
+      <point x="516" y="360" type="curve" smooth="yes"/>
+      <point x="515" y="204"/>
+      <point x="455" y="84"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:39:04</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

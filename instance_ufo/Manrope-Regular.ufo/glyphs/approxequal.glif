@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="approxequal" format="2">
+  <advance width="662"/>
+  <unicode hex="2248"/>
+  <outline>
+    <component base="asciitilde" xScale="0.9833333333333333" yScale="0.9833333333333333" xOffset="6" yOffset="80"/>
+    <component base="asciitilde" xScale="0.9833333333333333" yScale="0.9833333333333333" xOffset="6" yOffset="-113"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:42:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

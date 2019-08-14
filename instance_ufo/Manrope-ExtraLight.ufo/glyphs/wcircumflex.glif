@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcircumflex" format="2">
+  <advance width="744"/>
+  <unicode hex="0175"/>
+  <outline>
+    <component base="w"/>
+    <component base="circumflexcomb" xOffset="129" yOffset="-180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>w</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>w</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 19:56:44</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

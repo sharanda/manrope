@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="554"/>
+  <unicode hex="0063"/>
+  <note>
+c
+</note>
+  <outline>
+    <contour>
+      <point x="294" y="-15" type="curve" smooth="yes"/>
+      <point x="401" y="-15"/>
+      <point x="480" y="36"/>
+      <point x="520" y="133" type="curve"/>
+      <point x="447" y="154" type="line"/>
+      <point x="419" y="90"/>
+      <point x="367" y="55"/>
+      <point x="294" y="55" type="curve" smooth="yes"/>
+      <point x="178" y="55"/>
+      <point x="119" y="141"/>
+      <point x="118" y="270" type="curve" smooth="yes"/>
+      <point x="119" y="396"/>
+      <point x="175" y="485"/>
+      <point x="294" y="485" type="curve" smooth="yes"/>
+      <point x="365" y="485"/>
+      <point x="423" y="447"/>
+      <point x="448" y="382" type="curve"/>
+      <point x="520" y="406" type="line"/>
+      <point x="490" y="498"/>
+      <point x="404" y="555"/>
+      <point x="295" y="555" type="curve" smooth="yes"/>
+      <point x="133" y="555"/>
+      <point x="42" y="440"/>
+      <point x="40" y="270" type="curve" smooth="yes"/>
+      <point x="42" y="103"/>
+      <point x="131" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 19:26:24</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

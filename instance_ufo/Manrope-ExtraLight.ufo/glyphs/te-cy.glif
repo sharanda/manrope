@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy" format="2">
+  <advance width="490"/>
+  <unicode hex="0442"/>
+  <outline>
+    <contour>
+      <point x="224" y="0" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="266" y="498" type="line"/>
+      <point x="465" y="498" type="line"/>
+      <point x="465" y="540" type="line"/>
+      <point x="25" y="540" type="line"/>
+      <point x="25" y="498" type="line"/>
+      <point x="224" y="498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>r</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:11:38</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

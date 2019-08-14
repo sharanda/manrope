@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe-cy" format="2">
+  <advance width="924"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="394" y="318" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="318" type="line"/>
+      <point x="747" y="0" type="line"/>
+      <point x="914" y="0" type="line"/>
+      <point x="659" y="365" type="line"/>
+      <point x="895" y="720" type="line"/>
+      <point x="734" y="720" type="line"/>
+      <point x="530" y="398" type="line"/>
+      <point x="530" y="720" type="line"/>
+      <point x="394" y="720" type="line"/>
+      <point x="394" y="398" type="line"/>
+      <point x="190" y="720" type="line"/>
+      <point x="29" y="720" type="line"/>
+      <point x="265" y="365" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 22:59:21</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

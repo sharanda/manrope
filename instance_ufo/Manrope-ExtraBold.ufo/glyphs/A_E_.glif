@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="945"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="194" y="112" type="line"/>
+      <point x="425" y="112" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="895" y="0" type="line"/>
+      <point x="895" y="127" type="line"/>
+      <point x="561" y="127" type="line"/>
+      <point x="561" y="312" type="line"/>
+      <point x="835" y="312" type="line"/>
+      <point x="835" y="439" type="line"/>
+      <point x="561" y="439" type="line"/>
+      <point x="561" y="593" type="line"/>
+      <point x="895" y="593" type="line"/>
+      <point x="895" y="720" type="line"/>
+      <point x="240" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="240" type="line"/>
+      <point x="338" y="584" type="line"/>
+      <point x="425" y="584" type="line"/>
+      <point x="425" y="240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 16:04:12</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="592"/>
+  <unicode hex="0050"/>
+  <note>
+P
+</note>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="281" type="line"/>
+      <point x="342" y="281" type="line" smooth="yes"/>
+      <point x="355" y="281"/>
+      <point x="372" y="282"/>
+      <point x="390" y="285" type="curve" smooth="yes"/>
+      <point x="498" y="301"/>
+      <point x="562" y="390"/>
+      <point x="562" y="500" type="curve" smooth="yes"/>
+      <point x="562" y="610"/>
+      <point x="498" y="699"/>
+      <point x="390" y="716" type="curve" smooth="yes"/>
+      <point x="372" y="719"/>
+      <point x="356" y="720"/>
+      <point x="342" y="720" type="curve" smooth="yes"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="337" type="line"/>
+      <point x="128" y="664" type="line"/>
+      <point x="340" y="664" type="line" smooth="yes"/>
+      <point x="352" y="664"/>
+      <point x="369" y="663"/>
+      <point x="385" y="660" type="curve" smooth="yes"/>
+      <point x="463" y="644"/>
+      <point x="502" y="574"/>
+      <point x="502" y="500" type="curve" smooth="yes"/>
+      <point x="502" y="426"/>
+      <point x="463" y="357"/>
+      <point x="385" y="341" type="curve" smooth="yes"/>
+      <point x="369" y="338"/>
+      <point x="352" y="337"/>
+      <point x="340" y="337" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:36:43</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

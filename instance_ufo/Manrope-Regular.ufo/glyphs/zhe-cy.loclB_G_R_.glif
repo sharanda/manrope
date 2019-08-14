@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.loclBGR" format="2">
+  <advance width="706"/>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="315" y="266" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="383" y="0" type="line"/>
+      <point x="383" y="266" type="line"/>
+      <point x="602" y="0" type="line"/>
+      <point x="688" y="0" type="line"/>
+      <point x="460" y="270" type="line"/>
+      <point x="678" y="540" type="line"/>
+      <point x="596" y="540" type="line"/>
+      <point x="383" y="274" type="line"/>
+      <point x="383" y="720" type="line"/>
+      <point x="315" y="720" type="line"/>
+      <point x="315" y="274" type="line"/>
+      <point x="103" y="540" type="line"/>
+      <point x="20" y="540" type="line"/>
+      <point x="239" y="270" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:14:33</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

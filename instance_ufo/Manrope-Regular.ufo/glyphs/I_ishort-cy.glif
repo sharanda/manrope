@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishort-cy" format="2">
+  <advance width="684"/>
+  <unicode hex="0419"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="540" y="591" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="720" type="line"/>
+      <point x="540" y="720" type="line"/>
+      <point x="144" y="130" type="line"/>
+      <point x="144" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
+    <component base="brevecomb" xOffset="99"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:00:12</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

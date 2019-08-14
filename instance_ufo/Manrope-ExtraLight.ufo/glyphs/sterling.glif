@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling" format="2">
+  <advance width="565"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="42" type="line"/>
+      <point x="210" y="42" type="line"/>
+      <point x="210" y="550" type="line" smooth="yes"/>
+      <point x="210" y="637"/>
+      <point x="264" y="693"/>
+      <point x="346" y="693" type="curve" smooth="yes"/>
+      <point x="415" y="693"/>
+      <point x="461" y="648"/>
+      <point x="494" y="548" type="curve"/>
+      <point x="534" y="561" type="line"/>
+      <point x="495" y="678"/>
+      <point x="434" y="735"/>
+      <point x="347" y="735" type="curve" smooth="yes"/>
+      <point x="244" y="735"/>
+      <point x="168" y="660"/>
+      <point x="168" y="550" type="curve" smooth="yes"/>
+      <point x="168" y="111" type="line" smooth="yes"/>
+      <point x="168" y="73"/>
+      <point x="137" y="42"/>
+      <point x="99" y="42" type="curve" smooth="yes"/>
+      <point x="23" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="23" y="347" type="line"/>
+      <point x="412" y="347" type="line"/>
+      <point x="412" y="389" type="line"/>
+      <point x="23" y="389" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dollar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dollar</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:41:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

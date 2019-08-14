@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Softsign-cy" format="2">
+  <advance width="637"/>
+  <unicode hex="042C"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="361" y="0" type="line" smooth="yes"/>
+      <point x="375" y="0"/>
+      <point x="398" y="1"/>
+      <point x="416" y="4" type="curve" smooth="yes"/>
+      <point x="537" y="23"/>
+      <point x="597" y="114"/>
+      <point x="597" y="231" type="curve" smooth="yes"/>
+      <point x="597" y="347"/>
+      <point x="536" y="439"/>
+      <point x="416" y="457" type="curve" smooth="yes"/>
+      <point x="398" y="460"/>
+      <point x="374" y="461"/>
+      <point x="361" y="461" type="curve" smooth="yes"/>
+      <point x="175" y="461" type="line"/>
+      <point x="175" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="99" type="line"/>
+      <point x="175" y="363" type="line"/>
+      <point x="357" y="363" type="line" smooth="yes"/>
+      <point x="370" y="363"/>
+      <point x="388" y="362"/>
+      <point x="402" y="358" type="curve" smooth="yes"/>
+      <point x="467" y="343"/>
+      <point x="491" y="284"/>
+      <point x="491" y="231" type="curve" smooth="yes"/>
+      <point x="491" y="178"/>
+      <point x="467" y="119"/>
+      <point x="402" y="103" type="curve" smooth="yes"/>
+      <point x="388" y="100"/>
+      <point x="370" y="99"/>
+      <point x="357" y="99" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>b</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>b</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:04:34</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

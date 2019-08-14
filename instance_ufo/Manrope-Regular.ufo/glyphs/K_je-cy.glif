@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kje-cy" format="2">
+  <advance width="594"/>
+  <unicode hex="040C"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="143" y="360" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="594" y="0" type="line"/>
+      <point x="230" y="372" type="line"/>
+      <point x="566" y="720" type="line"/>
+      <point x="472" y="720" type="line"/>
+      <point x="143" y="380" type="line"/>
+      <point x="143" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
+    <component base="acutecomb" xOffset="82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:01:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

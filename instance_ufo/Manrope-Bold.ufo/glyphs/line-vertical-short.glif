@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="line-vertical-short" format="2">
+  <advance width="121"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="106" y="168" type="line"/>
+      <point x="121" y="168" type="line"/>
+      <point x="121" y="540" type="line"/>
+      <point x="0" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:38:57</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="1312"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="degree" xOffset="450" yOffset="-390"/>
+    <component base="degree" xOffset="30"/>
+    <component base="slashlongcomb" xOffset="90"/>
+    <component base="degree" xOffset="862" yOffset="-390"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:42:59</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

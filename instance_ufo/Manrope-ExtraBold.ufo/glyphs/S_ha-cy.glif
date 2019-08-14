@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sha-cy" format="2">
+  <advance width="960"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="890" y="0" type="line"/>
+      <point x="890" y="720" type="line"/>
+      <point x="754" y="720" type="line"/>
+      <point x="754" y="127" type="line"/>
+      <point x="548" y="127" type="line"/>
+      <point x="548" y="720" type="line"/>
+      <point x="412" y="720" type="line"/>
+      <point x="412" y="127" type="line"/>
+      <point x="206" y="127" type="line"/>
+      <point x="206" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:04:09</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

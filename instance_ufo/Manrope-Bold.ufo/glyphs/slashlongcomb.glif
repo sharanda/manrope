@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongcomb" format="2">
+  <unicode hex="0338"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="720" y="639" type="line"/>
+      <point x="640" y="720" type="line"/>
+      <point x="0" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:39:15</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>722</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

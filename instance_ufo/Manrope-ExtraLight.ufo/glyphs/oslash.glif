@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="574"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="558" y="511" type="line"/>
+      <point x="528" y="540" type="line"/>
+      <point x="16" y="30" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:38:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

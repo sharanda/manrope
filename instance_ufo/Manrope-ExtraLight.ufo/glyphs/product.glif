@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="product" format="2">
+  <advance width="432"/>
+  <unicode hex="220F"/>
+  <outline>
+    <component base="bar" xOffset="-30"/>
+    <component base="bar" xOffset="240"/>
+    <component base="underscore" xScale="0.47218" xOffset="60" yOffset="774"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:42:44</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
