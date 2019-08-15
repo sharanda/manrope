@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n-curve" format="2">
+  <advance width="459"/>
+  <outline>
+    <contour>
+      <point x="352" y="0" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="458" y="262" type="line"/>
+      <point x="458" y="352"/>
+      <point x="453" y="446"/>
+      <point x="386" y="504" type="curve"/>
+      <point x="338" y="547"/>
+      <point x="278" y="558"/>
+      <point x="219" y="554" type="curve"/>
+      <point x="171" y="551"/>
+      <point x="118" y="533"/>
+      <point x="82" y="494" type="curve"/>
+      <point x="44" y="451"/>
+      <point x="26" y="412"/>
+      <point x="17" y="362" type="curve"/>
+      <point x="13" y="335"/>
+      <point x="13" y="280"/>
+      <point x="13" y="236" type="curve"/>
+      <point x="78" y="236" type="line"/>
+      <point x="78" y="275"/>
+      <point x="78" y="317"/>
+      <point x="84" y="347" type="curve"/>
+      <point x="91" y="380"/>
+      <point x="106" y="409"/>
+      <point x="129" y="427" type="curve"/>
+      <point x="150" y="445"/>
+      <point x="177" y="454"/>
+      <point x="207" y="456" type="curve"/>
+      <point x="246" y="457"/>
+      <point x="278" y="447"/>
+      <point x="302" y="426" type="curve"/>
+      <point x="343" y="390"/>
+      <point x="352" y="327"/>
+      <point x="352" y="258" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:38:57</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

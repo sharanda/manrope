@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft" format="2">
+  <advance width="402"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="140" y="-220" type="line"/>
+      <point x="316" y="-220" type="line"/>
+      <point x="316" y="-165" type="line"/>
+      <point x="195" y="-165" type="line"/>
+      <point x="195" y="830" type="line"/>
+      <point x="316" y="830" type="line"/>
+      <point x="316" y="885" type="line"/>
+      <point x="140" y="885" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:33:05</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

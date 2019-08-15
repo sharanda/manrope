@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threesuperior" format="2">
+  <advance width="399"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <contour>
+      <point x="187" y="259" type="curve" smooth="yes"/>
+      <point x="271" y="259"/>
+      <point x="339" y="322"/>
+      <point x="339" y="409" type="curve" smooth="yes"/>
+      <point x="339" y="488"/>
+      <point x="286" y="551"/>
+      <point x="200" y="552" type="curve"/>
+      <point x="201" y="527" type="line"/>
+      <point x="333" y="653" type="line"/>
+      <point x="333" y="720" type="line"/>
+      <point x="58" y="720" type="line"/>
+      <point x="58" y="653" type="line"/>
+      <point x="281" y="653" type="line"/>
+      <point x="272" y="676" type="line"/>
+      <point x="112" y="536" type="line"/>
+      <point x="145" y="481" type="line"/>
+      <point x="158" y="487"/>
+      <point x="172" y="491"/>
+      <point x="186" y="491" type="curve" smooth="yes"/>
+      <point x="234" y="491"/>
+      <point x="267" y="456"/>
+      <point x="267" y="409" type="curve" smooth="yes"/>
+      <point x="267" y="362"/>
+      <point x="234" y="327"/>
+      <point x="187" y="327" type="curve" smooth="yes"/>
+      <point x="152" y="326"/>
+      <point x="120" y="346"/>
+      <point x="108" y="385" type="curve"/>
+      <point x="40" y="366" type="line"/>
+      <point x="59" y="300"/>
+      <point x="119" y="259"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>three</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>three</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:26:47</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

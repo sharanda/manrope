@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U-cy" format="2">
+  <advance width="623"/>
+  <unicode hex="0423"/>
+  <outline>
+    <contour>
+      <point x="191" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="606" y="720" type="line"/>
+      <point x="528" y="720" type="line"/>
+      <point x="311" y="250" type="line"/>
+      <point x="98" y="720" type="line"/>
+      <point x="17" y="720" type="line"/>
+      <point x="273" y="171" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:03:21</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

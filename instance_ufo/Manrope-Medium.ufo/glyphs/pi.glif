@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi" format="2">
+  <advance width="661"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="219" y="459" type="line"/>
+      <point x="442" y="459" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="531" y="459" type="line"/>
+      <point x="631" y="459" type="line"/>
+      <point x="631" y="540" type="line"/>
+      <point x="30" y="540" type="line"/>
+      <point x="30" y="459" type="line"/>
+      <point x="130" y="459" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:20:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

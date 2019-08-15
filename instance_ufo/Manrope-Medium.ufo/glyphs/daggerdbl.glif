@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="427"/>
+  <unicode hex="2021"/>
+  <outline>
+    <component base="minus" xScale="0.729245" xOffset="17" yOffset="118"/>
+    <component base="minus" xScale="0.729245" xOffset="17" yOffset="-94"/>
+    <component base="bar" xOffset="79"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:32:44</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

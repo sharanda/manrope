@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance width="738"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="37" y="-120" type="line"/>
+      <point x="110" y="-120" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="624" y="0" type="line"/>
+      <point x="624" y="-120" type="line"/>
+      <point x="698" y="-120" type="line"/>
+      <point x="698" y="70" type="line"/>
+      <point x="646" y="70" type="line"/>
+      <point x="646" y="720" type="line"/>
+      <point x="202" y="720" type="line"/>
+      <point x="193" y="562"/>
+      <point x="189" y="451"/>
+      <point x="175" y="318" type="curve" smooth="yes"/>
+      <point x="162" y="196"/>
+      <point x="148" y="70"/>
+      <point x="37" y="70" type="curve"/>
+    </contour>
+    <contour>
+      <point x="177" y="70" type="line"/>
+      <point x="223" y="112"/>
+      <point x="236" y="181"/>
+      <point x="247" y="296" type="curve" smooth="yes"/>
+      <point x="260" y="422"/>
+      <point x="264" y="528"/>
+      <point x="271" y="650" type="curve"/>
+      <point x="573" y="650" type="line"/>
+      <point x="573" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 22:58:58</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

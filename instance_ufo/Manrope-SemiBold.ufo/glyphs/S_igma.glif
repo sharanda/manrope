@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sigma" format="2">
+  <advance width="640"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="564" y="0" type="line"/>
+      <point x="564" y="99" type="line"/>
+      <point x="206" y="99" type="line"/>
+      <point x="455" y="351" type="line"/>
+      <point x="455" y="369" type="line"/>
+      <point x="206" y="621" type="line"/>
+      <point x="570" y="621" type="line"/>
+      <point x="570" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+      <point x="70" y="625" type="line"/>
+      <point x="331" y="360" type="line"/>
+      <point x="70" y="95" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>M</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>M</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:17:56</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

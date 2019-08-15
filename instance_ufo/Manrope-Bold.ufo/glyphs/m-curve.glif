@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m-curve" format="2">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="258" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="378" y="330" type="line" smooth="yes"/>
+      <point x="378" y="401"/>
+      <point x="374" y="457"/>
+      <point x="324" y="506" type="curve" smooth="yes"/>
+      <point x="290" y="540"/>
+      <point x="236" y="553"/>
+      <point x="192" y="553" type="curve" smooth="yes"/>
+      <point x="124" y="553"/>
+      <point x="60" y="520"/>
+      <point x="25" y="462" type="curve" smooth="yes"/>
+      <point x="-1" y="422"/>
+      <point x="0" y="378"/>
+      <point x="0" y="332" type="curve"/>
+      <point x="54" y="332" type="line"/>
+      <point x="54" y="361"/>
+      <point x="58" y="387"/>
+      <point x="80" y="412" type="curve" smooth="yes"/>
+      <point x="98" y="434"/>
+      <point x="127" y="446"/>
+      <point x="156" y="446" type="curve" smooth="yes"/>
+      <point x="182" y="446"/>
+      <point x="209" y="436"/>
+      <point x="227" y="417" type="curve" smooth="yes"/>
+      <point x="252" y="393"/>
+      <point x="258" y="366"/>
+      <point x="258" y="322" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:38:57</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

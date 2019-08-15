@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="606"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="134" type="line"/>
+      <point x="348" y="134" type="line" smooth="yes"/>
+      <point x="417" y="134"/>
+      <point x="484" y="166"/>
+      <point x="524" y="217" type="curve" smooth="yes"/>
+      <point x="556" y="256"/>
+      <point x="577" y="308"/>
+      <point x="576" y="360" type="curve" smooth="yes"/>
+      <point x="576" y="414"/>
+      <point x="555" y="468"/>
+      <point x="518" y="508" type="curve" smooth="yes"/>
+      <point x="494" y="538"/>
+      <point x="460" y="562"/>
+      <point x="423" y="574" type="curve" smooth="yes"/>
+      <point x="399" y="582"/>
+      <point x="374" y="587"/>
+      <point x="348" y="587" type="curve" smooth="yes"/>
+      <point x="160" y="587" type="line"/>
+      <point x="160" y="720" type="line"/>
+      <point x="70" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="218" type="line"/>
+      <point x="160" y="502" type="line"/>
+      <point x="348" y="502" type="line" smooth="yes"/>
+      <point x="383" y="502"/>
+      <point x="421" y="484"/>
+      <point x="446" y="458" type="curve" smooth="yes"/>
+      <point x="470" y="432"/>
+      <point x="484" y="396"/>
+      <point x="485" y="360" type="curve" smooth="yes"/>
+      <point x="486" y="328"/>
+      <point x="474" y="296"/>
+      <point x="454" y="271" type="curve" smooth="yes"/>
+      <point x="427" y="238"/>
+      <point x="386" y="218"/>
+      <point x="348" y="218" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:36:43</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

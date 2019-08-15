@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omega-side" format="2">
+  <advance width="520"/>
+  <outline>
+    <contour>
+      <point x="250" y="-16" type="curve" smooth="yes"/>
+      <point x="310" y="-16"/>
+      <point x="366" y="12"/>
+      <point x="394" y="81" type="curve"/>
+      <point x="433" y="243" type="line"/>
+      <point x="433" y="343" type="line"/>
+      <point x="350" y="343" type="line"/>
+      <point x="350" y="276" type="line"/>
+      <point x="350" y="237"/>
+      <point x="350" y="180"/>
+      <point x="342" y="149" type="curve" smooth="yes"/>
+      <point x="329" y="106"/>
+      <point x="308" y="70"/>
+      <point x="255" y="70" type="curve" smooth="yes"/>
+      <point x="216" y="70"/>
+      <point x="183" y="90"/>
+      <point x="160" y="130" type="curve" smooth="yes"/>
+      <point x="140" y="164"/>
+      <point x="134" y="204"/>
+      <point x="134" y="249" type="curve" smooth="yes"/>
+      <point x="134" y="304"/>
+      <point x="145" y="350"/>
+      <point x="172" y="392" type="curve" smooth="yes"/>
+      <point x="196" y="432"/>
+      <point x="228" y="458"/>
+      <point x="266" y="482" type="curve"/>
+      <point x="208" y="555" type="line"/>
+      <point x="168" y="532"/>
+      <point x="124" y="494"/>
+      <point x="91" y="443" type="curve" smooth="yes"/>
+      <point x="58" y="390"/>
+      <point x="40" y="328"/>
+      <point x="40" y="256" type="curve" smooth="yes"/>
+      <point x="40" y="194"/>
+      <point x="47" y="134"/>
+      <point x="77" y="83" type="curve" smooth="yes"/>
+      <point x="116" y="18"/>
+      <point x="172" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:39:52</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

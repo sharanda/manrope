@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance width="600"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="408" y="610" type="line"/>
+      <point x="505" y="610" type="line"/>
+      <point x="505" y="720" type="line"/>
+      <point x="408" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="610" type="line"/>
+      <point x="193" y="610" type="line"/>
+      <point x="193" y="720" type="line"/>
+      <point x="95" y="720" type="line"/>
+    </contour>
+    <component base="tonos" xOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/14 00:39:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

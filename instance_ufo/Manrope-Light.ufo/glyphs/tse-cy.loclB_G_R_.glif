@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse-cy.loclBGR" format="2">
+  <advance width="599"/>
+  <outline>
+    <contour>
+      <point x="461" y="0" type="line"/>
+      <point x="539" y="0" type="line"/>
+      <point x="539" y="-82" type="line"/>
+      <point x="589" y="-82" type="line"/>
+      <point x="589" y="55" type="line"/>
+      <point x="461" y="55" type="line"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tse-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:16:32</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

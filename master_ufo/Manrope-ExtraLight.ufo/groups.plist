@@ -40,6 +40,7 @@
       <string>Cdotaccent</string>
       <string>Es-cy</string>
       <string>E-cy</string>
+      <string>xi</string>
       <string>euro</string>
     </array>
     <key>public.kern1.D</key>
@@ -71,7 +72,6 @@
       <string>Gbreve</string>
       <string>Gcommaaccent</string>
       <string>Gdotaccent</string>
-      <string>G.001</string>
     </array>
     <key>public.kern1.H</key>
     <array>
@@ -160,6 +160,7 @@
       <string>Omega</string>
       <string>Omicrontonos</string>
       <string>currency</string>
+      <string>Oval-condensed</string>
     </array>
     <key>public.kern1.P</key>
     <array>
@@ -296,7 +297,6 @@
       <string>cdotaccent</string>
       <string>es-cy</string>
       <string>e-cy</string>
-      <string>xi</string>
       <string>sigmafinal</string>
       <string>cent</string>
     </array>
@@ -806,7 +806,6 @@
       <string>Otilde</string>
       <string>OE</string>
       <string>Q</string>
-      <string>G.001</string>
       <string>Ze-cy</string>
       <string>O-cy</string>
       <string>Ef-cy</string>
@@ -815,6 +814,7 @@
       <string>Omega</string>
       <string>Omicrontonos</string>
       <string>currency</string>
+      <string>Oval-condensed</string>
     </array>
     <key>public.kern2.P</key>
     <array>

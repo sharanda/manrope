@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy" format="2">
+  <advance width="743"/>
+  <unicode hex="0436"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="325" y="263" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="419" y="263" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="733" y="0" type="line"/>
+      <point x="525" y="270" type="line"/>
+      <point x="722" y="540" type="line"/>
+      <point x="607" y="540" type="line"/>
+      <point x="419" y="277" type="line"/>
+      <point x="419" y="540" type="line"/>
+      <point x="325" y="540" type="line"/>
+      <point x="325" y="277" type="line"/>
+      <point x="137" y="540" type="line"/>
+      <point x="21" y="540" type="line"/>
+      <point x="218" y="270" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/08/13 23:10:04</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

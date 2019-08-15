@@ -3,16 +3,16 @@
   <unicode hex="030B"/>
   <outline>
     <contour>
-      <point x="183" y="791" type="line"/>
-      <point x="120" y="856" type="line"/>
-      <point x="247" y="980" type="line"/>
-      <point x="310" y="916" type="line"/>
+      <point x="351" y="791" type="line"/>
+      <point x="478" y="916" type="line"/>
+      <point x="415" y="980" type="line"/>
+      <point x="288" y="856" type="line"/>
     </contour>
     <contour>
-      <point x="351" y="791" type="line"/>
-      <point x="288" y="856" type="line"/>
-      <point x="415" y="980" type="line"/>
-      <point x="478" y="916" type="line"/>
+      <point x="183" y="791" type="line"/>
+      <point x="310" y="916" type="line"/>
+      <point x="247" y="980" type="line"/>
+      <point x="120" y="856" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,9 +20,11 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/05/14 15:35:13</string>
+      <string>2019/08/14 00:39:15</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>598</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>
