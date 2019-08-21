@@ -1,5 +1,9 @@
 {
-.appVersion = "1131";
+.appVersion = "1257";
+DisplayStrings = (
+a,
+"ç"
+);
 classes = (
 {
 automatic = 1;
@@ -7900,7 +7904,7 @@ unicode = 017B;
 {
 color = 7;
 glyphname = a;
-lastChange = "2019-08-18 04:44:07 +0000";
+lastChange = "2019-08-20 15:40:58 +0000";
 layers = (
 {
 background = {
@@ -8135,10 +8139,10 @@ nodes = (
 "173 121 OFFCURVE",
 "173 151 CURVE SMOOTH",
 "173 189 OFFCURVE",
-"205 210 OFFCURVE",
-"253 222 CURVE SMOOTH",
-"303 235 OFFCURVE",
-"348 241 OFFCURVE",
+"205 209 OFFCURVE",
+"253 221 CURVE SMOOTH",
+"303 234 OFFCURVE",
+"348 243 OFFCURVE",
 "438 257 CURVE",
 "388 276 LINE",
 "389 227 OFFCURVE",
@@ -9407,7 +9411,7 @@ unicode = 010D;
 {
 color = 4;
 glyphname = ccedilla;
-lastChange = "2019-08-13 19:26:42 +0000";
+lastChange = "2019-08-20 15:41:51 +0000";
 layers = (
 {
 components = (
@@ -9416,7 +9420,7 @@ name = c;
 },
 {
 name = cedillacomb;
-transform = "{1, 0, 0, 1, 97, 0}";
+transform = "{1, 0, 0, 1, 78, 0}";
 }
 );
 layerId = "CAA188E2-8C62-414B-93AE-B576BEB044DB";
@@ -9429,7 +9433,7 @@ name = c;
 },
 {
 name = cedillacomb;
-transform = "{1, 0, 0, 1, 110, 0}";
+transform = "{1, 0, 0, 1, 102, 0}";
 }
 );
 layerId = "0DA27741-1AFD-43F2-A947-40AFBF8D6498";

@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="386" y="650" type="line"/>
-      <point x="453" y="650" type="line"/>
-      <point x="453" y="720" type="line"/>
+      <point x="454" y="650" type="line"/>
+      <point x="454" y="720" type="line"/>
       <point x="386" y="720" type="line"/>
     </contour>
     <contour>
-      <point x="148" y="650" type="line"/>
+      <point x="147" y="650" type="line"/>
       <point x="215" y="650" type="line"/>
       <point x="215" y="720" type="line"/>
-      <point x="148" y="720" type="line"/>
+      <point x="147" y="720" type="line"/>
     </contour>
     <component base="tonos" xOffset="17"/>
   </outline>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/14 00:39:15</string>
+      <string>2019/08/19 13:33:34</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

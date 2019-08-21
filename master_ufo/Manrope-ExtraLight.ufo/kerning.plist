@@ -250,10 +250,10 @@
     </dict>
     <key>public.kern1.K</key>
     <dict>
-      <key>Q</key>
-      <integer>-30</integer>
       <key>hyphen</key>
       <integer>-50</integer>
+      <key>public.kern2.O</key>
+      <integer>-30</integer>
       <key>public.kern2.S</key>
       <integer>-30</integer>
       <key>public.kern2.c</key>

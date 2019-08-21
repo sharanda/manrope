@@ -61,4 +61,4 @@ rm -rf ./ttf/*backup*.ttf
 echo "backup files removed"
 
 
-echo "Build Complete  *NUCLEAR LAUNCH DETECTED* *zerglings neutralized*"
+echo "Build Complete"
