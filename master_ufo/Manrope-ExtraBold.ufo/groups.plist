@@ -16,6 +16,7 @@
       <string>Atilde</string>
       <string>A-cy</string>
       <string>El-cy.loclBGR</string>
+      <string>Alpha</string>
       <string>Delta</string>
       <string>Lambda</string>
       <string>Alphatonos</string>
@@ -30,6 +31,7 @@
       <string>Tshe-cy</string>
       <string>Shha-cy</string>
       <string>ve-cy.loclBGR</string>
+      <string>Beta</string>
     </array>
     <key>public.kern1.C</key>
     <array>
@@ -108,6 +110,7 @@
       <string>Ka-cy</string>
       <string>Zhe-cy.loclBGR</string>
       <string>Ka-cy.loclBGR</string>
+      <string>Kappa</string>
     </array>
     <key>public.kern1.L</key>
     <array>
@@ -120,13 +123,16 @@
     <array>
       <string>H</string>
       <string>M</string>
+      <string>N</string>
       <string>Em-cy</string>
+      <string>Eta</string>
+      <string>Mu</string>
+      <string>Nu</string>
       <string>Sigma</string>
       <string>Psi</string>
     </array>
     <key>public.kern1.N</key>
     <array>
-      <string>N</string>
       <string>Nacute</string>
       <string>Ncaron</string>
       <string>Ncommaaccent</string>
@@ -156,9 +162,12 @@
       <string>Ereversed-cy</string>
       <string>Iu-cy</string>
       <string>Obarred-cy</string>
+      <string>Theta</string>
+      <string>Omicron</string>
       <string>Phi</string>
       <string>Omega</string>
       <string>Omicrontonos</string>
+      <string>Omegatonos</string>
       <string>currency</string>
       <string>Oval-condensed</string>
     </array>
@@ -206,6 +215,7 @@
       <string>Gheupturn-cy</string>
       <string>Te-cy</string>
       <string>Gamma</string>
+      <string>Tau</string>
     </array>
     <key>public.kern1.U</key>
     <array>
@@ -240,6 +250,7 @@
       <string>Tbar</string>
       <string>X</string>
       <string>Ha-cy</string>
+      <string>Chi</string>
     </array>
     <key>public.kern1.Y</key>
     <array>
@@ -261,6 +272,7 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>Zeta</string>
     </array>
     <key>public.kern1.a</key>
     <array>
@@ -407,6 +419,10 @@
       <string>n</string>
       <string>te-cy.loclBGR</string>
       <string>eta</string>
+      <string>upsilon</string>
+      <string>upsilontonos</string>
+      <string>upsilondieresis</string>
+      <string>upsilondieresistonos</string>
       <string>etatonos</string>
     </array>
     <key>public.kern1.more</key>
@@ -596,6 +612,7 @@
       <string>che-cy.loclBGR</string>
       <string>sha-cy.loclBGR</string>
       <string>iu-cy.loclBGR</string>
+      <string>Iota</string>
       <string>alpha</string>
       <string>mu</string>
       <string>tau</string>
@@ -610,10 +627,6 @@
       <string>gamma</string>
       <string>lambda</string>
       <string>nu</string>
-      <string>upsilon</string>
-      <string>upsilontonos</string>
-      <string>upsilondieresis</string>
-      <string>upsilondieresistonos</string>
     </array>
     <key>public.kern1.ve</key>
     <array>
@@ -672,6 +685,7 @@
       <string>De-cy</string>
       <string>El-cy</string>
       <string>El-cy.loclBGR</string>
+      <string>Alpha</string>
       <string>Delta</string>
       <string>Lambda</string>
       <string>Alphatonos</string>
@@ -684,6 +698,7 @@
       <string>Ge-cy</string>
       <string>Gheupturn-cy</string>
       <string>Shha-cy</string>
+      <string>Beta</string>
       <string>Gamma</string>
     </array>
     <key>public.kern2.C</key>
@@ -739,6 +754,7 @@
       <string>Softsign-cy</string>
       <string>Yeru-cy</string>
       <string>Iu-cy</string>
+      <string>Kappa</string>
       <string>Xi</string>
       <string>Etatonos</string>
     </array>
@@ -774,14 +790,17 @@
     <array>
       <string>H</string>
       <string>M</string>
+      <string>N</string>
       <string>Em-cy</string>
       <string>Che-cy</string>
+      <string>Eta</string>
+      <string>Mu</string>
+      <string>Nu</string>
       <string>Sigma</string>
       <string>Psi</string>
     </array>
     <key>public.kern2.N</key>
     <array>
-      <string>N</string>
       <string>Nacute</string>
       <string>Ncaron</string>
       <string>Ncommaaccent</string>
@@ -810,9 +829,12 @@
       <string>O-cy</string>
       <string>Ef-cy</string>
       <string>Obarred-cy</string>
+      <string>Theta</string>
+      <string>Omicron</string>
       <string>Phi</string>
       <string>Omega</string>
       <string>Omicrontonos</string>
+      <string>Omegatonos</string>
       <string>currency</string>
       <string>Oval-condensed</string>
     </array>
@@ -853,6 +875,7 @@
       <string>Te-cy</string>
       <string>Hardsign-cy</string>
       <string>Dje-cy</string>
+      <string>Tau</string>
     </array>
     <key>public.kern2.U</key>
     <array>
@@ -893,6 +916,7 @@
       <string>Lje-cy</string>
       <string>Ereversed-cy</string>
       <string>Zhe-cy.loclBGR</string>
+      <string>Chi</string>
     </array>
     <key>public.kern2.Y</key>
     <array>
@@ -913,6 +937,7 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>Zeta</string>
     </array>
     <key>public.kern2.a</key>
     <array>
@@ -1113,6 +1138,7 @@
       <string>pe-cy.loclBGR</string>
       <string>softsign-cy.loclBGR</string>
       <string>iu-cy.loclBGR</string>
+      <string>Iota</string>
       <string>iotatonos</string>
     </array>
     <key>public.kern2.o</key>
@@ -1266,6 +1292,10 @@
       <string>tse-cy.loclBGR</string>
       <string>sha-cy.loclBGR</string>
       <string>shcha-cy.loclBGR</string>
+      <string>upsilon</string>
+      <string>upsilontonos</string>
+      <string>upsilondieresis</string>
+      <string>upsilondieresistonos</string>
     </array>
     <key>public.kern2.v</key>
     <array>
@@ -1275,10 +1305,6 @@
       <string>gamma</string>
       <string>lambda</string>
       <string>nu</string>
-      <string>upsilon</string>
-      <string>upsilontonos</string>
-      <string>upsilondieresis</string>
-      <string>upsilondieresistonos</string>
     </array>
     <key>public.kern2.w</key>
     <array>

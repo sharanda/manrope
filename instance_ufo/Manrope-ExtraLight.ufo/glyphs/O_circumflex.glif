@@ -4,7 +4,7 @@
   <unicode hex="00D4"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb" xOffset="120"/>
+    <component base="circumflexcomb" xOffset="110"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/13 19:07:30</string>
+      <string>2019/08/18 08:29:48</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

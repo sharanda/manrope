@@ -4,7 +4,7 @@
   <unicode hex="0160"/>
   <outline>
     <component base="S"/>
-    <component base="caroncomb" xOffset="44"/>
+    <component base="caroncomb" xOffset="57"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>S</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/08/13 19:15:30</string>
+      <string>2019/08/18 08:38:43</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>
