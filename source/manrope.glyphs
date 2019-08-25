@@ -40524,7 +40524,7 @@ rightMetricsKey = copyright;
 {
 color = 4;
 glyphname = "numeral-greek";
-lastChange = "2019-08-14 00:33:07 +0000";
+lastChange = "2019-08-25 12:54:42 +0000";
 layers = (
 {
 components = (
@@ -40544,7 +40544,7 @@ transform = "{1, 0, 0, 1, -185, 0}";
 }
 );
 layerId = "CAA188E2-8C62-414B-93AE-B576BEB044DB";
-width = 250;
+width = 232;
 }
 );
 leftKerningGroup = quotesingle;
@@ -40556,7 +40556,7 @@ unicode = 0374;
 {
 color = 4;
 glyphname = "lowernumeral-greek";
-lastChange = "2019-08-14 00:33:09 +0000";
+lastChange = "2019-08-25 12:54:50 +0000";
 layers = (
 {
 components = (
@@ -40576,7 +40576,7 @@ transform = "{1, 0, 0, 1, -185, -771}";
 }
 );
 layerId = "CAA188E2-8C62-414B-93AE-B576BEB044DB";
-width = 250;
+width = 232;
 }
 );
 leftKerningGroup = quotesingle;
