@@ -58,5 +58,12 @@ echo "removing the backup files"
 rm -rf ./ttf/*backup*.ttf
 echo "backup files removed"
 
+echo "removing build master and instance build ufos"
+rm -rf instance_ufo master_ufo
+done
+echo "build ufos removed"
+
+
+
 
 echo "Build Complete"
