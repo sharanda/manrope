@@ -27,14 +27,12 @@ ttfautohint Manrope-VF.ttf Manrope-VF-AH.ttf
 echo "autohinted"
 
 echo "removing unhinted manrope"
-#try changing this to just mv Manrope-VF-AH.ttf Manrope-VF.ttf
-rm -rf Manrope-VF.ttf
+mv Manrope-VF-AH.ttf Manrope-VF.ttf
 echo "unhinted manrope removed"
 
 echo "adding dummy dsig"
 gftools fix-dsig Manrope-VF.ttf --autofix
 echo "dummy dsig added"
-
 
 echo "fix ppem bit 3"
 gftools fix-hinting Manrope-VF.ttf
@@ -59,8 +57,8 @@ rm -rf ./ttf/*backup*.ttf
 echo "backup files removed"
 
 echo "removing build master and instance build ufos"
+cd ..
 rm -rf instance_ufo master_ufo
-done
 echo "build ufos removed"
 
 
