@@ -1,5 +1,5 @@
 {
-.appVersion = "1131";
+.appVersion = "1265";
 classes = (
 {
 automatic = 1;
@@ -43378,6 +43378,7 @@ quotedblright = -120;
 "@MMK_R_d" = -70;
 "@MMK_R_de" = -80;
 "@MMK_R_e" = -70;
+"@MMK_R_epsilon" = -80;
 "@MMK_R_g" = -80;
 "@MMK_R_m" = -50;
 "@MMK_R_o" = -80;
@@ -43395,7 +43396,6 @@ quotedblright = -120;
 hyphen = -100;
 quotedblright = 40;
 semicolon = -90;
-"@MMK_R_epsilon" = -80;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -30;
@@ -44028,6 +44028,7 @@ quotedblright = -120;
 "@MMK_R_d" = -70;
 "@MMK_R_de" = -80;
 "@MMK_R_e" = -70;
+"@MMK_R_epsilon" = -80;
 "@MMK_R_g" = -80;
 "@MMK_R_m" = -50;
 "@MMK_R_o" = -80;
@@ -44045,7 +44046,6 @@ quotedblright = -120;
 hyphen = -100;
 quotedblright = 40;
 semicolon = -90;
-"@MMK_R_epsilon" = -80;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -30;
