@@ -38,6 +38,9 @@ echo "fix ppem bit 3"
 gftools fix-hinting Manrope-VF.ttf
 echo "bit 3 fixed"
 
+echo "fix name"
+mv Manrope-VF.ttf.fix Manrope-VF.ttf
+mv Manrope-VF.ttf Manrope\[wght\].ttf
 cd ..
 
 echo "fixing the statics"
