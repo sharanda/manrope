@@ -27,20 +27,18 @@ ttfautohint Manrope-VF.ttf Manrope-VF-AH.ttf
 echo "autohinted"
 
 echo "removing unhinted manrope"
+#try changing this to just mv Manrope-VF-AH.ttf Manrope-VF.ttf
 rm -rf Manrope-VF.ttf
 echo "unhinted manrope removed"
 
 echo "adding dummy dsig"
-gftools fix-dsig Manrope-VF-AH.ttf --autofix
+gftools fix-dsig Manrope-VF.ttf --autofix
 echo "dummy dsig added"
 
 
 echo "fix ppem bit 3"
-gftools fix-hinting Manrope-VF-AH.ttf
+gftools fix-hinting Manrope-VF.ttf
 echo "bit 3 fixed"
-
-echo "rename fixed ttf.fix to ttf"
-mv Manrope-VF-AH.ttf.fix Manrope-VF-AH.ttf
 
 cd ..
 
