@@ -2,7 +2,8 @@
 .appVersion = "1265";
 DisplayStrings = (
 "ð",
-"/Softsign-cy/Yeru-cy M"
+"/Softsign-cy/Yeru-cy M",
+ij
 );
 classes = (
 {
@@ -11906,7 +11907,7 @@ unicode = 012F;
 {
 color = 4;
 glyphname = j;
-lastChange = "2019-08-12 19:01:06 +0000";
+lastChange = "2019-09-27 14:29:46 +0000";
 layers = (
 {
 layerId = "CAA188E2-8C62-414B-93AE-B576BEB044DB";
@@ -11931,10 +11932,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"145 646 LINE",
-"145 710 LINE",
-"103 710 LINE",
-"103 646 LINE"
+"145 671 LINE",
+"145 735 LINE",
+"103 735 LINE",
+"103 671 LINE"
 );
 }
 );
@@ -11963,10 +11964,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"231 600 LINE",
-"231 720 LINE",
-"95 720 LINE",
-"95 600 LINE"
+"231 615 LINE",
+"231 735 LINE",
+"95 735 LINE",
+"95 615 LINE"
 );
 }
 );
