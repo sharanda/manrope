@@ -5,21 +5,21 @@ set -e
 
 echo "Generating font directories"
 
-mkdir -p ./test/ttf
-mkdir -p ./test/variable
+mkdir -p ./fonts/ttf
+mkdir -p ./fonts/variable
 echo "Made font directories"
 
 
 echo "Generating Statics"
-fontmake -g source/manrope.glyphs -i --round-instances -o ttf --output-dir ./test/ttf/ 
+fontmake -g source/manrope.glyphs -i --round-instances -o ttf --output-dir ./fonts/ttf/ 
 echo "Made Statics"
 
 
 echo "Generating VFs"
-fontmake -g source/manrope.glyphs -o variable --output-dir ./test/variable/ 
+fontmake -g source/manrope.glyphs -o variable --output-dir ./fonts/variable/
 echo "Made VF"
 
-cd ./test/variable/
+cd ./fonts/variable/
 
 echo "autohinting"
 ttfautohint Manrope-VF.ttf Manrope-VF-AH.ttf
