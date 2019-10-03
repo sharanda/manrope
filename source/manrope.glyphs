@@ -1,14 +1,16 @@
 {
-.appVersion = "1265";
+.appVersion = "1266";
 DisplayStrings = (
 "ð",
 "/Softsign-cy/Yeru-cy M",
-ij
+ij,
+I,
+"/Eng"
 );
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent Gdotaccent H Hbar I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent C.001 A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Ustrait-cy Shha-cy Obarred-cy De-cy.loclBGR Zhe-cy.loclBGR Ka-cy.loclBGR El-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis";
 name = Uppercase;
 },
 {
@@ -68,12 +70,12 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature calt;\012feature pnum;\012feature tnum;\012feature case;\012";
+code = "feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature pnum;\012feature tnum;\012feature case;\012";
 name = aalt;
 },
 {
 automatic = 1;
-code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language KAZ;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012language CRT;\012sub i by idotaccent;\012language AZE;\012sub i by idotaccent;\012\012script cyrl;\012language SRB;\012sub be-cy by be-cy.loclSRB;\012language BGR;\012sub De-cy by De-cy.loclBGR;\012sub Zhe-cy by Zhe-cy.loclBGR;\012sub Ka-cy by Ka-cy.loclBGR;\012sub El-cy by El-cy.loclBGR;\012sub ve-cy by ve-cy.loclBGR;\012sub ge-cy by ge-cy.loclBGR;\012sub de-cy by de-cy.loclBGR;\012sub zhe-cy by zhe-cy.loclBGR;\012sub ze-cy by ze-cy.loclBGR;\012sub ii-cy by ii-cy.loclBGR;\012sub iishort-cy by iishort-cy.loclBGR;\012sub iigrave-cy by iigrave-cy.loclBGR;\012sub ka-cy by ka-cy.loclBGR;\012sub el-cy by el-cy.loclBGR;\012sub en-cy by en-cy.loclBGR;\012sub pe-cy by pe-cy.loclBGR;\012sub te-cy by te-cy.loclBGR;\012sub che-cy by che-cy.loclBGR;\012sub tse-cy by tse-cy.loclBGR;\012sub sha-cy by sha-cy.loclBGR;\012sub shcha-cy by shcha-cy.loclBGR;\012sub softsign-cy by softsign-cy.loclBGR;\012sub iu-cy by iu-cy.loclBGR;\012";
+code = "lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012	language KAZ;\012	sub i by idotaccent;\012	language TAT;\012	sub i by idotaccent;\012	language TRK;\012	sub i by idotaccent;\012	language CRT;\012	sub i by idotaccent;\012	language AZE;\012	sub i by idotaccent;\012} locl_latn_0;\012\012lookup locl_cyrl_0 {\012	script cyrl;\012	language SRB;\012	sub be-cy by be-cy.loclSRB;\012	language BGR;\012	sub De-cy by De-cy.loclBGR;\012	sub Zhe-cy by Zhe-cy.loclBGR;\012	sub Ka-cy by Ka-cy.loclBGR;\012	sub El-cy by El-cy.loclBGR;\012	sub ve-cy by ve-cy.loclBGR;\012	sub ge-cy by ge-cy.loclBGR;\012	sub de-cy by de-cy.loclBGR;\012	sub zhe-cy by zhe-cy.loclBGR;\012	sub ze-cy by ze-cy.loclBGR;\012	sub ii-cy by ii-cy.loclBGR;\012	sub iishort-cy by iishort-cy.loclBGR;\012	sub iigrave-cy by iigrave-cy.loclBGR;\012	sub ka-cy by ka-cy.loclBGR;\012	sub el-cy by el-cy.loclBGR;\012	sub en-cy by en-cy.loclBGR;\012	sub pe-cy by pe-cy.loclBGR;\012	sub te-cy by te-cy.loclBGR;\012	sub che-cy by che-cy.loclBGR;\012	sub tse-cy by tse-cy.loclBGR;\012	sub sha-cy by sha-cy.loclBGR;\012	sub shcha-cy by shcha-cy.loclBGR;\012	sub softsign-cy by softsign-cy.loclBGR;\012	sub iu-cy by iu-cy.loclBGR;\012} locl_cyrl_0;\012";
 name = locl;
 },
 {
@@ -102,14 +104,6 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 name = ordn;
 },
 {
-code = "sub [hyphen minus] greater by rightArrow;\012sub less [hyphen minus] by leftArrow;\012\012sub space less three space by space_less_three_space.liga;\012sub f f l by f_f_l;\012# sub parenleft c parenright by parenleft_c_parenright.liga;\012# sub parenleft greater parenright by parenleft_greater_parenright.liga;\012sub f f by f_f;\012sub f l by fl;\012sub t t by t_t;";
-name = liga;
-},
-{
-code = "sub parenleft' @Uppercase @Uppercase by parenleft.case;\012sub parenleft' @Uppercase [parenright parenright.case] by parenleft.case;\012sub braceleft' @Uppercase @Uppercase by braceleft.case;\012sub braceleft' @Uppercase [braceright braceright.case] by braceleft.case;\012sub bracketleft' @Uppercase @Uppercase by bracketleft.case;\012sub bracketleft' @Uppercase [bracketright bracketright.case] by bracketleft.case;\012sub guillemetleft' @Uppercase @Uppercase by guillemetleft.case;\012sub guillemetleft' @Uppercase [guillemetright guillemetright.case] by guillemetleft.case;\012\012sub @Uppercase @Uppercase parenright' by parenright.case;\012sub [parenleft parenleft.case] @Uppercase parenright' by parenright.case;\012sub @Uppercase @Uppercase braceright' by braceright.case;\012sub [braceleft braceleft.case] @Uppercase braceright' by braceright.case;\012sub @Uppercase @Uppercase bracketright' by bracketright.case;\012sub [bracketleft bracketleft.case] @Uppercase bracketright' by bracketright.case;\012sub @Uppercase @Uppercase guillemetright' by guillemetright.case;\012sub [guillemetleft guillemetleft.case] @Uppercase guillemetright' by guillemetright.case;\012\012\012\012sub parenleft' @Digit by parenleft.case;\012sub parenleft' @Digit [parenright parenright.case] by parenleft.case;\012sub braceleft' @Digit by braceleft.case;\012sub braceleft' @Digit [braceright braceright.case] by braceleft.case;\012sub bracketleft' @Digit by bracketleft.case;\012sub bracketleft' @Digit [bracketright bracketright.case] by bracketleft.case;\012sub guillemetleft' @Digit @Uppercase by guillemetleft.case;\012sub guillemetleft' @Digit [guillemetright guillemetright.case] by guillemetleft.case;\012\012sub @Digit parenright' by parenright.case;\012sub [parenleft parenleft.case] @Digit parenright' by parenright.case;\012sub @Digit braceright' by braceright.case;\012sub [braceleft braceleft.case] @Digit braceright' by braceright.case;\012sub @Digit bracketright' by bracketright.case;\012sub [bracketleft bracketleft.case] @Digit bracketright' by bracketright.case;\012sub @Digit guillemetright' by guillemetright.case;\012sub [guillemetleft guillemetleft.case] @Digit guillemetright' by guillemetright.case;\012\012\012\012sub @Uppercase colon' by colon.case;\012\012sub @Uppercase exclamdown' by exclamdown.case;\012sub @Uppercase questiondown' by questiondown.case;\012\012sub @Uppercase periodcentered' @Uppercase by periodcentered.case;\012sub @Uppercase hyphen' @Uppercase by hyphen.case;\012sub @Uppercase endash' @Uppercase by endash.case;\012sub @Uppercase emdash' @Uppercase by emdash.case;\012\012sub @Uppercase periodcentered' @Uppercase by periodcentered.case;\012sub @Uppercase hyphen' @Uppercase by hyphen.case;\012sub @Uppercase endash' @Uppercase by endash.case;\012sub @Uppercase emdash' @Uppercase by emdash.case;\012\012sub at' @Digit by at.case;\012sub @Uppercase at' @Uppercase by at.case;\012\012sub I quotesingle' m by quoteright;\012sub y o u quotesingle' r e by quoteright;\012sub y o u quotesingle' l l by quoteright;\012sub w e quotesingle' r e by quoteright;\012sub I quotesingle' v e by quoteright;\012sub w e quotesingle' v e by quoteright;\012sub quotesingle' s space by quoteright;\012sub n quotesingle' t by quoteright;\012sub e m quotesingle' space by quoteright;\012\012\012sub @Digit greater' @Digit by greater.case;\012sub @Digit less' @Digit  by less.case;\012sub @Uppercase greater' @Uppercase by greater.case;\012sub @Uppercase less' @Uppercase  by less.case;\012\012sub @Uppercase leftArrow' @Uppercase by leftArrow.case;\012sub @Uppercase space leftArrow' space @Uppercase by leftArrow.case;\012sub @Uppercase rightArrow' @Uppercase by rightArrow.case;\012sub @Uppercase space rightArrow' space @Uppercase by rightArrow.case;";
-name = calt;
-},
-{
 automatic = 1;
 code = "sub zero.tf by zero;\012sub one.tf by one;\012sub two.tf by two;\012sub three.tf by three;\012sub four.tf by four;\012sub five.tf by five;\012sub six.tf by six;\012sub seven.tf by seven;\012sub eight.tf by eight;\012sub nine.tf by nine;\012";
 name = pnum;
@@ -126,8 +120,13 @@ name = case;
 },
 {
 automatic = 1;
-code = "sub t t by t_t;\012";
+code = "lookupflag IgnoreMarks;\012sub t t by t_t;\012";
 name = dlig;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;\012sub f f l by f_f_l;\012sub f f by f_f;\012sub f i by fi;\012sub f l by fl;\012";
+name = liga;
 }
 );
 fontMaster = (
@@ -4109,73 +4108,75 @@ unicode = 0145;
 {
 color = 9;
 glyphname = Eng;
-lastChange = "2019-09-17 18:38:53 +0000";
+lastChange = "2019-10-02 16:03:08 +0000";
 layers = (
 {
-components = (
-{
-name = N;
-}
-);
 layerId = "CAA188E2-8C62-414B-93AE-B576BEB044DB";
 paths = (
 {
 closed = 1;
 nodes = (
-"557 -179 OFFCURVE",
-"592 -166 OFFCURVE",
-"592 -95 CURVE SMOOTH",
-"592 1 LINE",
-"485 96 LINE",
-"524 39 LINE SMOOTH",
-"542 12 OFFCURVE",
-"550 -22 OFFCURVE",
+"550 75 LINE",
+"112 720 LINE",
+"70 720 LINE",
+"70 0 LINE",
+"112 0 LINE",
+"112 646 LINE",
+"529 31 LINE SMOOTH",
+"543 10 OFFCURVE",
+"550 -19 OFFCURVE",
 "550 -55 CURVE SMOOTH",
-"550 -114 OFFCURVE",
-"543 -136 OFFCURVE",
+"550 -119 OFFCURVE",
+"540 -136 OFFCURVE",
 "504 -136 CURVE SMOOTH",
 "496 -136 OFFCURVE",
 "486 -135 OFFCURVE",
 "475 -133 CURVE",
 "475 -174 LINE",
-"489 -177 OFFCURVE",
-"501 -179 OFFCURVE",
-"516 -179 CURVE SMOOTH"
+"492 -178 OFFCURVE",
+"503 -179 OFFCURVE",
+"516 -179 CURVE SMOOTH",
+"569 -179 OFFCURVE",
+"592 -153 OFFCURVE",
+"592 -95 CURVE SMOOTH",
+"592 720 LINE",
+"550 720 LINE"
 );
 }
 );
 width = 662;
 },
 {
-components = (
-{
-name = N;
-}
-);
 layerId = "0DA27741-1AFD-43F2-A947-40AFBF8D6498";
 paths = (
 {
 closed = 1;
 nodes = (
-"606 -239 OFFCURVE",
-"659 -193 OFFCURVE",
-"659 -88 CURVE SMOOTH",
-"659 60 LINE",
-"443 120 LINE",
-"482 60 LINE SMOOTH",
-"532 -18 OFFCURVE",
-"547 -48 OFFCURVE",
+"521 240 LINE",
+"208 720 LINE",
+"70 720 LINE",
+"70 0 LINE",
+"208 0 LINE",
+"208 480 LINE",
+"488 51 LINE SMOOTH",
+"534 -22 OFFCURVE",
+"547 -50 OFFCURVE",
 "547 -79 CURVE SMOOTH",
-"547 -123 OFFCURVE",
-"507 -132 OFFCURVE",
+"547 -114 OFFCURVE",
+"521 -132 OFFCURVE",
 "471 -132 CURVE SMOOTH",
-"455 -132 OFFCURVE",
-"439 -130 OFFCURVE",
+"461 -132 OFFCURVE",
+"454 -131 OFFCURVE",
 "429 -129 CURVE",
 "429 -229 LINE",
-"452 -235 OFFCURVE",
-"479 -239 OFFCURVE",
-"509 -239 CURVE SMOOTH"
+"454 -236 OFFCURVE",
+"482 -239 OFFCURVE",
+"509 -239 CURVE SMOOTH",
+"610 -239 OFFCURVE",
+"659 -189 OFFCURVE",
+"659 -88 CURVE SMOOTH",
+"659 720 LINE",
+"521 720 LINE"
 );
 }
 );
