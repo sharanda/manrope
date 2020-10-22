@@ -13,7 +13,8 @@ Preview, download & test: http://manropefont.com/
 	- Albanian, Belarusian, Bosnian, Bulgarian, Catalan, Croatian, Czech, Danish, English, Estonian, Filipino, Finnish, French, Galician, German, Greek, Hungarian, Icelandic, Indonesian, Irish, Italian, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Mongolian, Norwegian, Polish, Portuguese, Romanian, Russian, Scottish Gaelic, Serbian, Slovak, Slovenian, liish, Swahili, Swedish, Taita, Turkish, Welsh, Zulu
 
 ## Changelog
-- v 4.503 / October 22, 2020 / Added: Vietnamese dong ₫, fixed ordinal indicators º ª
+- v 4.504 / October 22, 2020 / Added: Vietnamese dong ₫, fixed ordinal indicators º ª
+- v 4.503 / Minor improvements
 - v 4.502 / Minor improvements
 - v 4.501 / Minor improvements
 - v 4.5 / March 14, 2020
