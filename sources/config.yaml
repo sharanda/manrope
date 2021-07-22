@@ -24,4 +24,3 @@ stat:
       value: 700
     - name: ExtraBold
       value: 800
-autohintTTF: False
