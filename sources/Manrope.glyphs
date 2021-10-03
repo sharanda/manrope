@@ -49121,6 +49121,7 @@ instanceInterpolations = {
 "CAA188E2-8C62-414B-93AE-B576BEB044DB" = 0.16667;
 };
 isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 },
@@ -50396,5 +50397,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 4;
-versionMinor = 503;
+versionMinor = 504;
 }
