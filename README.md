@@ -20,6 +20,7 @@ Preview, download & test: http://manropefont.com/
 	- Updated Slovak diacritics /ť /Ľ /ľ - fixed shape and position;
 	- Added Single Story /a alternative glyph;
 	- Added WOFF2 variable font format;
+	- Added inch marks /″;
 - v 4.504 / October 22, 2020 / Added: Vietnamese dong ₫, fixed ordinal indicators º ª
 - v 4.503 / Minor improvements
 - v 4.502 / Minor improvements
