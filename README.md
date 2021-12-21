@@ -1,5 +1,5 @@
 # Manrope Font
-Manrope font is an open-source modern sans-serif font family. Designed by Mikhail Sharanda in 2018-2019.
+Manrope font is an open-source modern sans-serif font family. Designed by Mikhail Sharanda in 2018-2021.
 
 Preview, download & test: http://manropefont.com/
 
@@ -13,6 +13,13 @@ Preview, download & test: http://manropefont.com/
 	- Albanian, Belarusian, Bosnian, Bulgarian, Catalan, Croatian, Czech, Danish, English, Estonian, Filipino, Finnish, French, Galician, German, Greek, Hungarian, Icelandic, Indonesian, Irish, Italian, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Mongolian, Norwegian, Polish, Portuguese, Romanian, Russian, Scottish Gaelic, Serbian, Slovak, Slovenian, liish, Swahili, Swedish, Taita, Turkish, Welsh, Zulu
 
 ## Changelog
+- v 4.505 / December 21, 2021:
+	- Taller contextual alternative for /l when it stands before or after capital /I;
+	- Added Modifier Letter Apostrophe /ʼ for Uzbek language;
+	- Fixed shape mistake in Cyrillic /Ц;
+	- Updated Slovak diacritics /ť /Ľ /ľ - fixed shape and position;
+	- Added Single Story /a alternative glyph;
+	- Added WOFF2 variable font format;
 - v 4.504 / October 22, 2020 / Added: Vietnamese dong ₫, fixed ordinal indicators º ª
 - v 4.503 / Minor improvements
 - v 4.502 / Minor improvements
@@ -38,7 +45,7 @@ Preview, download & test: http://manropefont.com/
 	- First release;
 
 
-## Building
+## Building (needed for Google Fonts only)
 
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
 
