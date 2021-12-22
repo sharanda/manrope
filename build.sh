@@ -11,16 +11,19 @@ echo "Made font directories"
  
 echo "Generating Statics"
 fontmake -g source/manrope.glyphs -o ttf --round-instances -a --keep-direction -i --output-dir ./gf/static/
+fontmake -g source/manrope-italic.glyphs -o ttf --round-instances -a --keep-direction -i --output-dir ./gf/static/
 echo "Made Statics"
 
 echo "Generating VFs"
 fontmake -g source/manrope.glyphs -o variable --output-path ./gf/Manrope\[wght\].ttf
+fontmake -g source/manrope-italic.glyphs -o variable --output-path ./gf/Manrope-Italic\[wght\].ttf
 echo "Made VF"
 
 cd ./gf/
 
 echo "adding dummy dsig"
 gftools fix-dsig Manrope\[wght\].ttf --autofix
+gftools fix-dsig Manrope-italic\[wght\].ttf --autofix
 echo "dummy dsig added"
 
 cd ..
