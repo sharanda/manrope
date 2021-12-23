@@ -3,6 +3,10 @@ Manrope font is an open-source modern sans-serif font family. Designed by Mikhai
 
 Preview, download & test: http://manropefont.com/
 
+## Manrope Italic
+Please support Manrope Italic fork:
+https://github.com/cssobral2013/manrope
+
 ## Features
 - Semi-condensed, clean, minimal sans-serif font family
 - Variable font + 7 legacy weights
