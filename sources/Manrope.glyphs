@@ -48311,33 +48311,6 @@ width = 360;
 unicode = 02BC;
 },
 {
-glyphname = parenleft_c_parenright.liga;
-lastChange = "2020-02-20 18:21:12 +0000";
-layers = (
-{
-components = (
-{
-name = copyright;
-transform = "{1, 0, 0, 1, 100, 0}";
-}
-);
-layerId = "CAA188E2-8C62-414B-93AE-B576BEB044DB";
-width = 1696;
-},
-{
-components = (
-{
-name = copyright;
-transform = "{1, 0, 0, 1, 100, 0}";
-}
-);
-layerId = "0DA27741-1AFD-43F2-A947-40AFBF8D6498";
-width = 2028;
-}
-);
-unicode = E001;
-},
-{
 glyphname = space_less_three_space.liga;
 lastChange = "2020-02-20 18:21:12 +0000";
 layers = (
