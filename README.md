@@ -62,9 +62,33 @@ Thanks for your understanding and continued support!
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at
-http://scripts.sil.org/OFL
+Manrope V5 Font Software License Agreement  
+Version 1.0 – April 5, 2025
+
+This font software (“Manrope V5”) is the intellectual property of Mikhail Sharanda and is provided free of charge for both personal and commercial use.
+
+By using this font, you agree to the following terms:
+
+Permissions:
+✔ You may use this font in personal and commercial projects.
+✔ You may embed this font in websites, apps, or software products.
+✔ You may redistribute this font, provided:
+– It remains unmodified.
+– The original name “Manrope V5” is retained.
+– Proper credit is given to the author: Mikhail Sharanda.
+
+Restrictions:
+✘ You may not modify, reverse-engineer, or create derivative versions of this font without prior written permission.
+✘ You may not sell this font by itself, either on digital marketplaces or via any other means.
+
+Attribution:
+When redistributing, please include the following attribution:  
+“Manrope V5 by Mikhail Sharanda”
+
+Disclaimer:
+This font is provided “as is,” without warranty of any kind. The author is not liable for any damages resulting from its use.
+
+© 2025 Mikhail Sharanda. All Rights Reserved.
 
 # 🤜 🤛
 
