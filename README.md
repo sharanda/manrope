@@ -4,10 +4,17 @@ Manrope font is an open-source modern sans-serif font family. Designed by Michae
 
 Preview, download & test: http://gent.media/manrope/
 
-## Manrope Italic
+## Manrope V5 Coming Soon
 
-Please support Manrope Italic fork:
-https://github.com/cssobral2013/manrope
+Hey everyone,
+
+I’m excited to announce that I’m working on Manrope V5, but this time, it will be closed source. When I first made it open source, I hoped for contributions, but instead, my font was misused and released under different names with no attribution. It’s been frustrating, and I no longer want to maintain it in that way.
+
+V5 won’t be released on Google Fonts. While it could offer convenience for Figma and Google Slides, I’m not after popularity. I want to keep it rare, for the true fans of Manrope. Google also converts the font internally, causing bugs and rendering issues that I can’t fix.
+
+The new version will be available for download here, and I’ll be collecting feedback to improve it. You can follow the work in progress on Instagram at @mike.gentle.
+
+Thanks for your understanding and continued support!
 
 ## Features
 
